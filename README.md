@@ -16,6 +16,9 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 
 # Mod list (link, license, credits)
 
+
+- ![Malcolmriley's Unused Renders](https://github.com/malcolmriley/unused-renders) | CC BY | Malcolm Riley
+
 - ![Artisanal Reskins: Bob's mods](https://mods.factorio.com/mod/reskins-bobs) | MIT | Kirazy, snouz, Vigil, YuokiTani
 
 - ![Assault Spidertron](https://mods.factorio.com/mod/assault_spidertron_V2) | MIT | Dave-1993_, snouz
@@ -59,3 +62,18 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 - ![HelicopterRevival](https://mods.factorio.com/mod/HelicopterRevival) | MIT | kumpu, twilightthepony, snouz
 
 - ![Mining Drones](https://mods.factorio.com/mod/Mining_Drones) | GNU LGPLv3  | Klonan
+
+- ![Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) | GNU LGPLv3 | Krastor
+
+(soon)
+- ![Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
+
+- ![Dectorio](https://mods.factorio.com/mod/Dectorio) | GNU GPLv3 | PantherX
+
+- ![Nixie Tubes](https://mods.factorio.com/mod/nixie-tubes) | MIT | justarandomgeek
+
+- ![Hovercrafts](https://mods.factorio.com/mod/Hovercrafts) | CC BY-SA 4.0 | Arcani_Victus, snouz
+
+- ![Frost Biters](https://mods.factorio.com/mod/Cold_biters) | MIT | snouz (MFerrari is ok with me sharing my work for his mod)
+
+- ![SE Space Trains](https://mods.factorio.com/mod/se-space-trains) | MIT | FragJacker, snouz

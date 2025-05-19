@@ -47,36 +47,15 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 - ![Armoured Biters](https://mods.factorio.com/mod/ArmouredBiters) | CC BY-NC | CybranM
 
 - ![Power Armor MK3](https://mods.factorio.com/mod/Power%20Armor%20MK3) | MIT | jimmy_1283, snouz
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
+
+- ![Cargo Ships](https://mods.factorio.com/mod/cargo-ships) | GNU GPLv3 | schnurrebutz, rudegrass, snouz
+
+- ![Classic Beacon](https://mods.factorio.com/mod/classic-beacon) | MIT | Wube, Kirazy
+
+- ![Classic Mining Drill](https://mods.factorio.com/mod/classic-mining-drill) | MIT | Wube, Kirazy
+
+- ![Flare Stack](https://mods.factorio.com/mod/Flare%20Stack) | MIT | snouz, Gotlag
+
+- ![HelicopterRevival](https://mods.factorio.com/mod/HelicopterRevival) | MIT | kumpu, twilightthepony, snouz
+
+- ![Mining Drones](https://mods.factorio.com/mod/Mining_Drones) | GNU LGPLv3  | Klonan

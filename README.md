@@ -77,3 +77,5 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 - ![Frost Biters](https://mods.factorio.com/mod/Cold_biters) | MIT | snouz (MFerrari is ok with me sharing my work for his mod)
 
 - ![SE Space Trains](https://mods.factorio.com/mod/se-space-trains) | MIT | FragJacker, snouz
+
+- ![Omega Drill](https://mods.factorio.com/mod/OmegaDrill) | MIT | toddnollan

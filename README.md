@@ -79,3 +79,32 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 - ![SE Space Trains](https://mods.factorio.com/mod/se-space-trains) | MIT | FragJacker, snouz
 
 - ![Omega Drill](https://mods.factorio.com/mod/OmegaDrill) | MIT | toddnollan
+
+
+- ![Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
+- ![Brevven's mods (Titanium, Lead...)](https://mods.factorio.com/user/brevven) | MIT / CC-BY-SA | Brevven, snouz
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 
+- ![]() |  | 

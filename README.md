@@ -80,21 +80,30 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 
 - ![Omega Drill](https://mods.factorio.com/mod/OmegaDrill) | MIT | toddnollan
 
-
 - ![Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
+
 - ![Brevven's mods (Titanium, Lead...)](https://mods.factorio.com/user/brevven) | MIT / CC-BY-SA | Brevven, snouz
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
-- ![]() |  | 
+
+- ![Lexs Aircraft](https://mods.factorio.com/mod/lex-aircraft) | MIT | lexsus
+
+- ![Gun Equipment](https://mods.factorio.com/mod/GunEquipment) | MIT | snouz
+
+- ![Rocket-Silo Construction](https://mods.factorio.com/mod/Rocket-Silo-Construction) | MIT | snouz, MFerrari (MFerrari is ok with me sharing my work for his mod)
+
+- ![Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | notnotmelon
+
+- ![Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | notnotmelon
+
+- ![Cheese's Concentrated Solar](https://mods.factorio.com/mod/ch-concentrated-solar) | GNU GPLv3 | StolenCheese, snouz
+
+- ![Robot Army](https://mods.factorio.com/mod/robotarmy) | MIT | kyranzor, snouz
+
+- ![Shield Generators](https://mods.factorio.com/mod/shield-generators) | MIT | snouz, Hurricane046, PreLeyZero
+
+- Burner lab | MIT | snouz
+
+- ![Cannon Turret](httpsmods.factorio.commodvtk-cannon-turret) | MIT | YuokiTani, snouz
+
 - ![]() |  | 
 - ![]() |  | 
 - ![]() |  | 

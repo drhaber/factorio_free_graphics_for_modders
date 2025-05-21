@@ -16,6 +16,8 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 
 # Mod list (link, license, credits)
 
+- ![Factorio's older versions download page (from 0.6.4)](https://factorio.com/download/archive) | Wube's EULA | Wube
+
 - ![Hurricane046's buildings](https://shorturl.at/AFcDm) | CC BY | Hurricane046
 
 - ![Malcolmriley's Unused Renders](https://github.com/malcolmriley/unused-renders) | CC BY | Malcolm Riley
@@ -133,12 +135,11 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 
 - ![Moshine](https://mods.factorio.com/mod/Moshine?from=downloaded) | MIT / GNU LGPLv3 / CC BY | snouz, Krastor, Hurricane046
 
-- ![Battery Powered](https://mods.factorio.com/mod/battery-powered) | 
-    CC BY-SA 4.0 | harag
+- ![Battery Powered](https://mods.factorio.com/mod/battery-powered) | CC BY-SA 4.0 | harag
 
 - ![Reactors](https://mods.factorio.com/mods/GotLag/Reactors) | MIT | Gotlag
 
-- ![]() |  | 
+- ![Mini Trains](https://mods.factorio.com/mod/Mini_Trains) | MIT | Sacredanarchy, Klonan
 
 - ![]() |  | 
 

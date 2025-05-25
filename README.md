@@ -8,23 +8,23 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 
 # Modding resources
 
-- ![Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+old&query=texture+old&selection=1) free stock images
+- [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+old&query=texture+old&selection=1) free stock images
 
-- ![Sketchfab](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&q=machine&type=models) 3D models, rotatable in browser
+- [Sketchfab](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&q=machine&type=models) 3D models, rotatable in browser
 
-- ![fgardt's spritter](https://github.com/fgardt/factorio-spritter/releases) png sprite-related tool, command-line (split, assemble, optimize)
+- [fgardt's spritter](https://github.com/fgardt/factorio-spritter/releases) png sprite-related tool, command-line (split, assemble, optimize)
 
 # Mod list (link, license, credits)
 
-- ![Factorio's older versions download page (from 0.6.4)](https://factorio.com/download/archive) | Wube's EULA | Wube
+- [Factorio's older versions download page (from 0.6.4)](https://factorio.com/download/archive) | Wube's EULA | Wube
 
-- ![Hurricane046's buildings](https://shorturl.at/AFcDm) | CC BY | Hurricane046
+- [Hurricane046's buildings](https://shorturl.at/AFcDm) | CC BY | Hurricane046
 
-- ![Malcolmriley's Unused Renders](https://github.com/malcolmriley/unused-renders) | CC BY | Malcolm Riley
+- [Malcolmriley's Unused Renders](https://github.com/malcolmriley/unused-renders) | CC BY | Malcolm Riley
 
-- ![Artisanal Reskins: Bob's mods](https://mods.factorio.com/mod/reskins-bobs) | MIT | Kirazy, snouz, Vigil, YuokiTani
+- [Artisanal Reskins: Bob's mods](https://mods.factorio.com/mod/reskins-bobs) | MIT | Kirazy, snouz, Vigil, YuokiTani
 
-- ![Brevven's mods (Titanium, Lead...)](https://mods.factorio.com/user/brevven) | MIT / CC-BY-SA | Brevven, snouz
+- [Brevven's mods (Titanium, Lead...)](https://mods.factorio.com/user/brevven) | MIT / CC-BY-SA | Brevven, snouz
 
 - YuokiTani's mods: ![Industries](https://mods.factorio.com/mod/Yuoki) ![Engines](https://mods.factorio.com/mod/yi_engines) ![Railway](https://mods.factorio.com/mod/yi_railway) ![YIR-UPR](https://mods.factorio.com/mod/z_yira_UP) ![Railroads](https://mods.factorio.com/mod/z_yira_yuokirails) ![YIR-Americans](https://mods.factorio.com/mod/z_yira_american) ![ProfitFromWar](https://mods.factorio.com/mod/yi_pfw) ![Helloween](https://mods.factorio.com/mod/YIHW) | CC BY-NC-SA 4.0 / MIT | YuokiTani
 

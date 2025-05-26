@@ -1,18 +1,29 @@
 # Factorio free graphics for modders
 
-This is meant as a centralized catalog for factorio modders, to easily browse available resources, do kitbashing (aka frankeinsteining images) or use in their mods.
+A centralized catalog for factorio modders, to easily browse available resources, do kitbashing (aka frankeinsteining images) or use in their mods.
 
-- I've removed animations, shadows, masks... so check the actual mods (linked below) to get the full resources
+- I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual full resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
 
 - Check licenses before using anything (some have requirements), and credit every modder when you use parts of their work.
 
+- Tips: for mods with restrictive licenses (not included here) you can actually ask creators directly to use part of their work. They might say yes!
+Or if those mods includes graphics packages (e.g. Space Exploration), you can add the submod as a dependency and reference unmodified images there.
+
 # Modding resources
 
-- [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+old&query=texture+old&selection=1) free stock images
+- [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+old&query=texture+old&selection=1) | Free stock images
 
-- [Sketchfab](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&q=machine&type=models) 3D models, rotatable in browser
+- [Sketchfab](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&q=machine&type=models) | 3D models, rotatable in browser (you can make screenshots of them)
 
-- [fgardt's spritter](https://github.com/fgardt/factorio-spritter/releases) png sprite-related tool, command-line (split, assemble, optimize)
+- [fgardt's spritter](https://github.com/fgardt/factorio-spritter/releases) | Command-line sprite-related tool for factorio (split, assemble, optimize...)
+
+- Screenshot tools: [Greenshot](https://getgreenshot.org/), [ShareX](https://getsharex.com/), [ScreenToGif](https://www.screentogif.com/) ...
+
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) | Nice mass file renamer
+
+- Image editing softwares: [Gimp](https://www.gimp.org/downloads/) ...
+
+# Tutorials
 
 # Mod list (link, license, credits)
 
@@ -141,7 +152,7 @@ This is meant as a centralized catalog for factorio modders, to easily browse av
 
 - [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) | MIT | Sacredanarchy, Klonan
 
-- []() |  | 
+- TheKingJo's mods | CC BY-NC-SA 4.0 | [Baneblade Tank](https://mods.factorio.com/mod/kj_40kbaneblade) (model by Matthew Retopologised) [Iron Fist Dreadnought](https://mods.factorio.com/mod/kj_40kdreadnought) (model by Loumiere) [Predator Tank](https://mods.factorio.com/mod/kj_40kpredator) (model by Rinzler) [Leman Russ Tank](https://mods.factorio.com/mod/kj_40klemanruss) (model by Rinzler) [Northrop B-2 Spirit](https://mods.factorio.com/mod/kj_b2) (model by overlordchaos) [B-17](https://mods.factorio.com/mod/kj_b17) (model by manilov.ap and helijah) [Panzer IV](https://mods.factorio.com/mod/kj_panzer4) (model by Greg McKechnie) [Ju-87](https://mods.factorio.com/mod/kj_ju87) (model by dannysgallegos) [Bf-109](https://mods.factorio.com/mod/kj_bf109) (model by Simple Aviation & Boating) [Panzer VIII 'Maus'](https://mods.factorio.com/mod/kj_maustank) (model by BK_114) [Ho-229](https://mods.factorio.com/mod/kj_ho229) (model by Tesler) [Ju-52](https://mods.factorio.com/mod/kj_ju52) (model by Matias G.) [Northrop XB-35](https://mods.factorio.com/mod/kj_xb35) (model by Corvette724) [Vierling Flak](https://mods.factorio.com/mod/kj_vierling) (model by DFS studio) [Landkreuzer P.1000 Ratte](https://mods.factorio.com/mod/kj_rattetank) (model by Herdyn) [Leopard 2A6](https://mods.factorio.com/mod/kj_2a6) (model by buh) [Ju G38](https://mods.factorio.com/mod/kj_jug38) (model by helijah) [Warhammer 40K Bunker](https://mods.factorio.com/mod/kj_40kbunker) (model by uragan27) [88mm Pak 43](https://mods.factorio.com/mod/kj_pak) (model by AMAC35) [Servo-Skull](https://mods.factorio.com/mod/kj_servoskull) (model by Erasmus) [Metal Gear Solid Rex](https://mods.factorio.com/mod/kj_rex) (model by Zdarova) [Ford Mustang](https://mods.factorio.com/mod/kj_fordmustang) (model by BaldGuyMartin) [Flakpanzer IV 'Wirbelwind'](https://mods.factorio.com/mod/kj_wirbelwind) (model by Prak) [Lamborghini Aventador](https://mods.factorio.com/mod/kj_aventador) (model by kondokeibu) [General Purpose Truck](https://mods.factorio.com/mod/kj_utilitarian) (model by Lee Alex Johansson) [Watchtower](https://mods.factorio.com/mod/kj_tower) (model by \_SeF\_) [War Rig Truck](https://mods.factorio.com/mod/kj_warrig) (model by Gandarf) [Cybertruck](https://mods.factorio.com/mod/kj_cybertruck) (model by PolyDucky) [Phalanx CIWS](https://mods.factorio.com/mod/kj_phalanx) (model by JordyVanMelkebeke) [Gigahorse](https://mods.factorio.com/mod/kj_gigahorse) (model by lowriderfreak and Frank I.) [Boeing 747](https://mods.factorio.com/mod/kj_747) (model by PartialHedgehog) [Item Bunker](https://mods.factorio.com/mod/kj_itembunker) (model by Medv3D) [Fancy Lamp](https://mods.factorio.com/mod/kj_lightmachine) (model by 19vitali99) [Nuclear Mine](https://mods.factorio.com/mod/kj_nuclearmine) (model by FWTeastwood) [Bulldozer](https://mods.factorio.com/mod/kj_bulldozer) (model by xoliul) [B-29](https://mods.factorio.com/mod/kj_b29) (model by Escou) [Star Wars Speeder Bike](https://mods.factorio.com/mod/kj_swspeeder) (model by Idmental) [Metal Gear Solid Ray](https://mods.factorio.com/mod/kj_ray) (model by Peardian) [Fire Truck](https://mods.factorio.com/mod/kj_firetruck) (model by Rescue3D Assets) [Flag](https://mods.factorio.com/mod/kj_flag) (model by TheKingJo) [Lasercannon](https://mods.factorio.com/mod/kj_laser) (model by TheKingJo) [Helios One Concentrated Solar](https://mods.factorio.com/mod/kj_heliosOne) (model from Fallout: New Vegas) [Pre-Industrial Warfare](https://mods.factorio.com/mod/kj_medieval_warfare) ([original mod](https://mods.factorio.com/mod/siege-ballista) by PastTheFuture)
 
 - []() |  | 
 

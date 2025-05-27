@@ -2,9 +2,11 @@
 
 A centralized catalog for factorio modders, to easily browse available resources, do kitbashing (aka frankeinsteining images) or use in their mods.
 
-- I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual full resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
-
 - Check licenses before using anything (some have requirements), and credit every modder when you use parts of their work.
+
+- If you're featured here and decide to change license or want me to remove your work, don't hesitate to contact me.
+
+- I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual full resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
 
 - Tips: for mods with restrictive licenses (not included here) you can actually ask creators directly to use part of their work. They might say yes!
 Or if those mods includes graphics packages (e.g. Space Exploration), you can add the submod as a dependency and reference unmodified images there.
@@ -184,7 +186,7 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 
 - [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
 
-- []() |  | 
+- [Galdoc's manufacturing](https://mods.factorio.com/mod/galdocs-manufacturing) | GNU GPLv3 | Galdoc
 
 - []() |  | 
 

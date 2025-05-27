@@ -79,7 +79,6 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 
 - [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) | GNU LGPLv3 | Krastor
 
-(soon)
 - [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
 
 - [Dectorio](https://mods.factorio.com/mod/Dectorio) | GNU GPLv3 | PantherX
@@ -154,6 +153,49 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 
 - TheKingJo's mods | CC BY-NC-SA 4.0 | [Baneblade Tank](https://mods.factorio.com/mod/kj_40kbaneblade) (model by Matthew Retopologised) [Iron Fist Dreadnought](https://mods.factorio.com/mod/kj_40kdreadnought) (model by Loumiere) [Predator Tank](https://mods.factorio.com/mod/kj_40kpredator) (model by Rinzler) [Leman Russ Tank](https://mods.factorio.com/mod/kj_40klemanruss) (model by Rinzler) [Northrop B-2 Spirit](https://mods.factorio.com/mod/kj_b2) (model by overlordchaos) [B-17](https://mods.factorio.com/mod/kj_b17) (model by manilov.ap and helijah) [Panzer IV](https://mods.factorio.com/mod/kj_panzer4) (model by Greg McKechnie) [Ju-87](https://mods.factorio.com/mod/kj_ju87) (model by dannysgallegos) [Bf-109](https://mods.factorio.com/mod/kj_bf109) (model by Simple Aviation & Boating) [Panzer VIII 'Maus'](https://mods.factorio.com/mod/kj_maustank) (model by BK_114) [Ho-229](https://mods.factorio.com/mod/kj_ho229) (model by Tesler) [Ju-52](https://mods.factorio.com/mod/kj_ju52) (model by Matias G.) [Northrop XB-35](https://mods.factorio.com/mod/kj_xb35) (model by Corvette724) [Vierling Flak](https://mods.factorio.com/mod/kj_vierling) (model by DFS studio) [Landkreuzer P.1000 Ratte](https://mods.factorio.com/mod/kj_rattetank) (model by Herdyn) [Leopard 2A6](https://mods.factorio.com/mod/kj_2a6) (model by buh) [Ju G38](https://mods.factorio.com/mod/kj_jug38) (model by helijah) [Warhammer 40K Bunker](https://mods.factorio.com/mod/kj_40kbunker) (model by uragan27) [88mm Pak 43](https://mods.factorio.com/mod/kj_pak) (model by AMAC35) [Servo-Skull](https://mods.factorio.com/mod/kj_servoskull) (model by Erasmus) [Metal Gear Solid Rex](https://mods.factorio.com/mod/kj_rex) (model by Zdarova) [Ford Mustang](https://mods.factorio.com/mod/kj_fordmustang) (model by BaldGuyMartin) [Flakpanzer IV 'Wirbelwind'](https://mods.factorio.com/mod/kj_wirbelwind) (model by Prak) [Lamborghini Aventador](https://mods.factorio.com/mod/kj_aventador) (model by kondokeibu) [General Purpose Truck](https://mods.factorio.com/mod/kj_utilitarian) (model by Lee Alex Johansson) [Watchtower](https://mods.factorio.com/mod/kj_tower) (model by \_SeF\_) [War Rig Truck](https://mods.factorio.com/mod/kj_warrig) (model by Gandarf) [Cybertruck](https://mods.factorio.com/mod/kj_cybertruck) (model by PolyDucky) [Phalanx CIWS](https://mods.factorio.com/mod/kj_phalanx) (model by JordyVanMelkebeke) [Gigahorse](https://mods.factorio.com/mod/kj_gigahorse) (model by lowriderfreak and Frank I.) [Boeing 747](https://mods.factorio.com/mod/kj_747) (model by PartialHedgehog) [Item Bunker](https://mods.factorio.com/mod/kj_itembunker) (model by Medv3D) [Fancy Lamp](https://mods.factorio.com/mod/kj_lightmachine) (model by 19vitali99) [Nuclear Mine](https://mods.factorio.com/mod/kj_nuclearmine) (model by FWTeastwood) [Bulldozer](https://mods.factorio.com/mod/kj_bulldozer) (model by xoliul) [B-29](https://mods.factorio.com/mod/kj_b29) (model by Escou) [Star Wars Speeder Bike](https://mods.factorio.com/mod/kj_swspeeder) (model by Idmental) [Metal Gear Solid Ray](https://mods.factorio.com/mod/kj_ray) (model by Peardian) [Fire Truck](https://mods.factorio.com/mod/kj_firetruck) (model by Rescue3D Assets) [Flag](https://mods.factorio.com/mod/kj_flag) (model by TheKingJo) [Lasercannon](https://mods.factorio.com/mod/kj_laser) (model by TheKingJo) [Helios One Concentrated Solar](https://mods.factorio.com/mod/kj_heliosOne) (model from Fallout: New Vegas) [Pre-Industrial Warfare](https://mods.factorio.com/mod/kj_medieval_warfare) ([original mod](https://mods.factorio.com/mod/siege-ballista) by PastTheFuture)
 
+- [Intermodal Containers](https://mods.factorio.com/mod/IntermodalContainers) | GNU GPLv3 | Deadlock989, shanemadden
+
+- [Space battles](https://mods.factorio.com/mod/space-battles) [(graphics)](https://mods.factorio.com/mod/space-battles-graphics) | MIT | estgamer, models by FilipZelinka, Kerem Kavalci, futaba@blender, Wholock, Vaportrash
+
+- [Transport rings](https://mods.factorio.com/mod/transport-ring-teleporter) | MIT | estgamer
+
+- [Elron](https://mods.factorio.com/mod/elron) | MIT | estgamer
+
+- [MOAR Modules](https://mods.factorio.com/mod/moar-modules) | CC BY-NC-SA 4.0 | Mr.SmoothieHuman
+
+- [Interplanetary Logistics]()https://mods.factorio.com/mod/InterplanetaryLogistics | GNU GPLv3 | Ellis.xl
+
+- [Periodic Madness (TEST)](https://mods.factorio.com/mod/periodic-madness-test) | CC BY-NC-SA 4.0 | Mr.SmoothieHuman
+
+
+- [Spidertron Patrols](https://mods.factorio.com/mod/SpidertronPatrols) | MIT  | Xorimuth
+
+- [Furnitorio](https://mods.factorio.com/mod/Furnitorio) | MIT | Kerbal634
+
+- [Lily's Cubeine Technologies](https://mods.factorio.com/mod/lilys-cubeine) |  | IonShield
+
+- [Xander Mod](https://mods.factorio.com/mod/xander-mod) [graphics0](https://mods.factorio.com/mod/xander-mod-graphics-0) [graphics1](https://mods.factorio.com/mod/xander-mod-graphics-1)| GNU GPLv3 | Repofme1
+
+- [Electric Grid](https://mods.factorio.com/mod/electric-grid) | MIT | 0n0w1c
+
+- [Orbital Interlink](https://mods.factorio.com/mod/orbital-interlink) | GNU LGPLv3 | Kubius
+
+- [Old Style Concrete Textures]() | Public Domain | Quadrox, DellAquila
+
+- [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
 - []() |  | 
 
 - []() |  | 
@@ -168,3 +210,10 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 
 - []() |  | 
 
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 

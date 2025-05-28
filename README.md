@@ -167,8 +167,7 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 
 - [Interplanetary Logistics]()https://mods.factorio.com/mod/InterplanetaryLogistics | GNU GPLv3 | Ellis.xl
 
-- [Periodic Madness (TEST)](https://mods.factorio.com/mod/periodic-madness-test) | CC BY-NC-SA 4.0 | Mr.SmoothieHuman
-
+- [Periodic Madness (TEST)](https://mods.factorio.com/mod/periodic-madness-test) | MIT | Mr.SmoothieHuman
 
 - [Spidertron Patrols](https://mods.factorio.com/mod/SpidertronPatrols) | MIT  | Xorimuth
 
@@ -184,27 +183,51 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 
 - [Old Style Concrete Textures]() | Public Domain | Quadrox, DellAquila
 
-- [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
-
 - [Galdoc's manufacturing](https://mods.factorio.com/mod/galdocs-manufacturing) | GNU GPLv3 | Galdoc
 
-- []() |  | 
+- [Deadlock's Compact Loaders](https://mods.factorio.com/mod/DeadlockLoaders) | GNU GPLv3 | Deadlock989, shanemadden
 
-- []() |  | 
+- [Deadlock's Stacking Beltboxes & Compact Loaders](https://mods.factorio.com/mod/deadlock-beltboxes-loaders) | GNU GPLv3 | Deadlock989, shanemadden
 
-- []() |  | 
+- [Deadlock's Stacking Beltboxes](https://mods.factorio.com/mod/DeadlockStacking) | GNU GPLv3 | Deadlock989, shanemadden
 
-- []() |  | 
+- [Compact circuits](https://mods.factorio.com/mod/compaktcircuit) | Telkine2018 | compaktcircuit
 
-- []() |  | 
+- [Dredgeworks](https://mods.factorio.com/mod/dredgeworks) [Graphics](https://mods.factorio.com/mod/dredgeworks-graphics) | MIT | Kubius
 
-- []() |  | 
+- [Equipment+: Portable Engine](https://mods.factorio.com/mod/EquipmentPlusPortableEngine) | MIT | daydev
 
-- []() |  | 
+- [Iridescent Industry](https://mods.factorio.com/mod/IridescentIndustry) | GNU GPLv3 | S6X, Hurricane046
 
-- []() |  | 
+- [Voidcraft](https://mods.factorio.com/mod/Voidcraft) | GNU GPLv3 | S6X
 
-- []() |  | 
+- [Telogistics](https://mods.factorio.com/mod/Telogistics) | MIT | S6X
+
+- [Legendary Space Age](https://mods.factorio.com/mod/LegendarySpaceAge) | GNU GPLv3 | StephenB
+
+- [Companion bots](https://mods.factorio.com/mod/logistic-cube) | MIT | MagicHack, slandey
+
+- [Magic Lamp](https://mods.factorio.com/mod/magic-lamp) | MIT | justarandomgeek
+
+- [Metal and Stars](https://mods.factorio.com/mod/metal-and-stars) [graphics1](https://mods.factorio.com/mod/metal-and-stars-graphics) [graphics2](https://mods.factorio.com/mod/metal-and-stars-graphics-2) | MIT | 5forsilver, Hurricane046
+
+- [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
+
+- [Power+: Power Meter](https://mods.factorio.com/mod/PowerPlusPowerMeter) | MIT | daydev 
+
+- [Robot Charging Station 1x1](https://mods.factorio.com/mod/Robo-Charge-1x1) | MIT | Peppe
+
+- [Secretas&Frozeta](https://mods.factorio.com/mod/secretas) | MIT | AnotherZach
+
+- [SF advanced solar](https://mods.factorio.com/mod/Speckled-advanced-solar) | GNU GPLv3 | SpeckledFleebeedoo
+
+- [Turbines ++](https://mods.factorio.com/mod/turbinesplusplus) | GNU LGPLv3 | PreLeyZero
+
+- [UMR: Ultimate Modular Reactor](https://mods.factorio.com/mod/umr) | GNU LGPLv3 | PreLeyZero
+
+- [Void Processing](https://mods.factorio.com/mod/VoidProcessing) | MIT | RustyNova016
+
+- [Alatar's Rocketry](https://mods.factorio.com/mod/alatar-rocketry) | MIT | alataristarion
 
 - []() |  | 
 

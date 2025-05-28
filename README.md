@@ -4,14 +4,14 @@ A centralized catalog for factorio modders, to easily browse available resources
 
 - Check licenses before using anything (some have requirements), and credit every modder when you use parts of their work.
 
-- If you're featured here and decide to change license or want me to remove your work, don't hesitate to contact me.
+- If you want to suggest some mods or assets to add, if you want to add your own unpublished material, or want me to remove your work, or if I got a credit wrong, don't hesitate to contact me (snouz on Discord, or the issue tab)
 
-- I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual full resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
+- Note: I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
 
 - Tips: for mods with restrictive licenses (not included here) you can actually ask creators directly to use part of their work. They might say yes!
 Or if those mods includes graphics packages (e.g. Space Exploration), you can add the submod as a dependency and reference unmodified images there.
 
-# Modding resources
+# Useful resources
 
 - [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+old&query=texture+old&selection=1) | Free stock images
 

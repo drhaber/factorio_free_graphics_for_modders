@@ -1,15 +1,19 @@
-# Factorio free graphics for modders
+# A centralized catalog for factorio modders, to easily browse graphics from other mods with open/permissive license.
 
-A centralized catalog for factorio modders, to easily browse available resources, do kitbashing (aka frankeinsteining images) or use in their mods.
+- To contact me: snouz on Discord, or issue tab
+
+- **If you wish that I remove your work from this repo, I'll gradly respect that wish**, regardless of the license chosen in the mod portal.
 
 - Check the license rights before using anything (some have requirements), credit every modder when you use parts of their work. It's also considered respectful by a lot of people to ask for permission beforehand to be sure they're ok with the way you're using their work, even when their license is permissive.
 
-- If you want to suggest some mods or assets to add, if you want to add your own unpublished material, or want me to remove your work, or if I got a credit wrong, don't hesitate to contact me (snouz on Discord, or the issue tab)
+- If you want to suggest some mods or assets to add, if you want to add your own unpublished material, or if I got a credit wrong, don't hesitate to contact me
 
 - Note: I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
 
-- Tips: for mods with restrictive licenses (not included here) you can actually ask creators directly to use part of their work. They might say yes!
+- Tip: for mods with restrictive licenses (not included here) you can actually ask creators directly to use part of their work. They might say yes!
 Or if those mods includes graphics packages (e.g. Space Exploration), you can add the submod as a dependency and reference unmodified images there.
+
+- Tip: to best use this repo, copy it to your computer, and display all images in a folder by typing "png" in the search bar (Windows)
 
 # Useful resources
 

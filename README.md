@@ -11,7 +11,7 @@
 - Note: I've removed animations, rotations, shadows, masks... so check the actual mods (linked below) to get the actual resources. This is meant as a preview or a tool for kitbashing (art of combining resources into something new)
 
 - Tip: for mods with restrictive licenses (not included here) you can actually ask creators directly to use part of their work. They might say yes!
-Or if those mods includes graphics packages (e.g. Space Exploration), you can add the submod as a dependency and reference unmodified images there.
+Or if those mods includes graphics packages (e.g. Space Exploration, Angel's...), you can add the submod as a dependency and reference unmodified images there (requires credit)
 
 - Tip: to best use this repo, copy it to your computer, and display all images in a folder by typing "png" in the search bar (Windows)
 
@@ -32,6 +32,10 @@ Or if those mods includes graphics packages (e.g. Space Exploration), you can ad
 # Tutorials
 
 TBD
+
+# Asset packs with restrictive license that you can put as dependency
+
+- PY [1](https://mods.factorio.com/mod/pyalienlifegraphics) [2](https://mods.factorio.com/mod/pyalienlifegraphics2) [3](https://mods.factorio.com/mod/pyalienlifegraphics3) [4](https://mods.factorio.com/mod/pyindustrygraphics) [5](https://mods.factorio.com/mod/pycoalprocessinggraphics) [6](https://mods.factorio.com/mod/pyfusionenergygraphics) [7](https://mods.factorio.com/mod/pyraworesgraphics) [8](https://mods.factorio.com/mod/pypetroleumhandlinggraphics) [9](https://mods.factorio.com/mod/pyhightechgraphics) [](https://mods.factorio.com/mod/pyalternativeenergygraphics) [Alien Biomes](https://mods.factorio.com/mod/alien-biomes-graphics) Space Exploration [1](https://mods.factorio.com/mod/space-exploration-graphics) [2](https://mods.factorio.com/mod/space-exploration-graphics-2) [3](https://mods.factorio.com/mod/space-exploration-graphics-3) [4](https://mods.factorio.com/mod/space-exploration-graphics-4) [5](https://mods.factorio.com/mod/space-exploration-graphics-5) Angel's [1](https://mods.factorio.com/mod/angelssmeltinggraphics) [2](https://mods.factorio.com/mod/angelsbioprocessinggraphics) [3](https://mods.factorio.com/mod/angelsexplorationgraphics) [4](https://mods.factorio.com/mod/angelsindustriesgraphics) [5](https://mods.factorio.com/mod/angelspetrochemgraphics) [6](https://mods.factorio.com/mod/angelsrefininggraphics)
 
 # Mod list (link, license, credits)
 

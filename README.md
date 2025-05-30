@@ -35,7 +35,13 @@ TBD
 
 # Licenses obligations summary
 
- - 
+- MIT = You can use it, modify it, but you have to include the MIT license with the copyright notice
+
+- CC = Creative Commons | BY = you need to credit the author | NC = Non-Commercial, you can't make money off it | SA = Share Alike, you can't distribute it and pretend it has another license | ND = No Derivative, you can't remix in any way
+
+- GNU GPLv3/LGPLv3 = You can use it, modify it, but what you use has to keep the same license (add a notice to the mod page), the copyright notice, a link to the source, and make the changes clear.
+
+Example of a good credit line: The entity (entity name) contain parts of buildings from (link to mod) from author (name) and is under license (license name)
 
 # Restricted graphics but you can put as dependency
 

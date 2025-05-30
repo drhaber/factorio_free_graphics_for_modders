@@ -33,7 +33,11 @@ Or if those mods includes graphics packages (e.g. Space Exploration, Angel's...)
 
 TBD
 
-# Asset packs with restrictive license that you can put as dependency
+# Licenses obligations summary
+
+ - 
+
+# Restricted graphics but you can put as dependency
 
 - PY [1](https://mods.factorio.com/mod/pyalienlifegraphics) [2](https://mods.factorio.com/mod/pyalienlifegraphics2) [3](https://mods.factorio.com/mod/pyalienlifegraphics3) [4](https://mods.factorio.com/mod/pyindustrygraphics) [5](https://mods.factorio.com/mod/pycoalprocessinggraphics) [6](https://mods.factorio.com/mod/pyfusionenergygraphics) [7](https://mods.factorio.com/mod/pyraworesgraphics) [8](https://mods.factorio.com/mod/pypetroleumhandlinggraphics) [9](https://mods.factorio.com/mod/pyhightechgraphics) [](https://mods.factorio.com/mod/pyalternativeenergygraphics)
 - [Alien Biomes](https://mods.factorio.com/mod/alien-biomes-graphics)
@@ -63,6 +67,8 @@ TBD
 - [Krastorio 1](https://mods.factorio.com/mod/Krastorio-graphics) | GNU LGPLv3 | Krastor, Linver
 
 - [Krastorio 2](https://mods.factorio.com/mod/Krastorio2Assets) | GNU LGPLv3 | Krastor, Linver, Raigard, snouz, BiusArt, GeneralEcchi
+
+- [Sosciencity](https://mods.factorio.com/mod/sosciencity) [graphics](https://mods.factorio.com/mod/sosciencity-graphics) | CC BY-NC-SA 4.0 | tiriscef, Johanna Spieker, \_traum, some models by Yanaem, printable_models, azlyirnizam, snippysnappets, umar6419 (check credits)
 
 - [Xander Mod](https://mods.factorio.com/mod/xander-mod) [graphics0](https://mods.factorio.com/mod/xander-mod-graphics-0) [graphics1](https://mods.factorio.com/mod/xander-mod-graphics-1)| GNU GPLv3 | Repofme1
 
@@ -242,7 +248,6 @@ TBD
 
 - [Alatar's Rocketry](https://mods.factorio.com/mod/alatar-rocketry) | MIT | alataristarion
 
-- []() |  | 
 
 - []() |  | 
 

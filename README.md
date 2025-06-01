@@ -41,7 +41,7 @@ TBD
 
 - GNU GPLv3/LGPLv3 = You can use it, modify it, but what you use has to keep the same license (add a notice to the mod page), the copyright notice, a link to the source, and make the changes clear.
 
-Example of a good credit line: The entity (entity name) contain parts of buildings from (link to mod) from author (name) and is under license (license name)
+Example of a good credit line (it's polite to do that even when the license doesn't force it): The entity (entity name) contain parts of buildings from (link to mod) from author (name) and is under license (license name)
 
 # Restricted graphics but you can put as dependency
 
@@ -62,6 +62,8 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 
 - YuokiTani's mods: [Industries](https://mods.factorio.com/mod/Yuoki) [Engines](https://mods.factorio.com/mod/yi_engines) [Railway](https://mods.factorio.com/mod/yi_railway) [YIR-UPR](https://mods.factorio.com/mod/z_yira_UP) [Railroads](https://mods.factorio.com/mod/z_yira_yuokirails) [YIR-Americans](https://mods.factorio.com/mod/z_yira_american) [ProfitFromWar](https://mods.factorio.com/mod/yi_pfw) [Helloween](https://mods.factorio.com/mod/YIHW) | CC BY-NC-SA 4.0 / MIT | YuokiTani
 
+- [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
+
 - [Periodic Madness (TEST)](https://mods.factorio.com/mod/periodic-madness-test) | MIT | Mr.SmoothieHuman
 
 - [Brevven's mods (Titanium, Lead...)](https://mods.factorio.com/user/brevven) | MIT / CC-BY-SA | Brevven, snouz
@@ -71,18 +73,22 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 - [Factorio+](https://mods.factorio.com/mod/factorioplus) | MIT | fishbus
 
 - [Krastorio 1](https://mods.factorio.com/mod/Krastorio-graphics) | GNU LGPLv3 | Krastor, Linver
-
 - [Krastorio 2](https://mods.factorio.com/mod/Krastorio2Assets) | GNU LGPLv3 | Krastor, Linver, Raigard, snouz, BiusArt, GeneralEcchi
+- [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) | GNU LGPLv3 | Krastor
 
 - [Sosciencity](https://mods.factorio.com/mod/sosciencity) [graphics](https://mods.factorio.com/mod/sosciencity-graphics) | CC BY-NC-SA 4.0 | tiriscef, Johanna Spieker, \_traum, some models by Yanaem, printable_models, azlyirnizam, snippysnappets, umar6419 (check credits)
 
 - [Xander Mod](https://mods.factorio.com/mod/xander-mod) [graphics0](https://mods.factorio.com/mod/xander-mod-graphics-0) [graphics1](https://mods.factorio.com/mod/xander-mod-graphics-1)| GNU GPLv3 | Repofme1
 
-- [Galdoc's manufacturing](https://mods.factorio.com/mod/galdocs-manufacturing) | GNU GPLv3 | Galdoc
+- [Spaghetorio](https://mods.factorio.com/mod/Spaghetorio) | GNU LGPLv3 | Spaghetti2364
+
+- [Galdoc's manufacturing](https://mods.factorio.com/mod/galdocs-manufacturing) | GNU GPLv3 (but prefers to be asked) | Galdoc
 
 - [Bio Industries](https://mods.factorio.com/mod/Bio_Industries) and [Natural Evolution](https://mods.factorio.com/mod/Natural_Evolution_Graphics) | MIT | TheSAguy, AlyxDeLunar, Albatrosv13, FreeER, Darkshadow1809, Rsending91, DOSorDIE, SpeedyBrain, Supercheese, Afforess, drs9999, SpeedDaemon, Simdezimon, Klonan, LukeM212, JJtJJ, YuokiTani
 
 - [Bio Industries (2021, unreleased)](https://mods.factorio.com/mod/Bio_Industries_NE_graphics) | MIT | snouz + all the above
+
+- [Quality Glassware](https://mods.factorio.com/mod/quality_glassware) | CC BY-SA | Hornwitser
 
 - [Turbines ++](https://mods.factorio.com/mod/turbinesplusplus) | GNU LGPLv3 | PreLeyZero
 
@@ -110,10 +116,6 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 
 - [Mining Drones](https://mods.factorio.com/mod/Mining_Drones) | GNU LGPLv3  | Klonan
 
-- [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) | GNU LGPLv3 | Krastor
-
-- [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
-
 - [Dectorio](https://mods.factorio.com/mod/Dectorio) | GNU GPLv3 | PantherX
 
 - [Nixie Tubes](https://mods.factorio.com/mod/nixie-tubes) | MIT | justarandomgeek
@@ -121,6 +123,7 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 - [Hovercrafts](https://mods.factorio.com/mod/Hovercrafts) | CC BY-SA 4.0 | Arcani_Victus, snouz
 
 - [Frost Biters](https://mods.factorio.com/mod/Cold_biters) | MIT | snouz (MFerrari is ok with me sharing my work for his mod)
+- [Rocket-Silo Construction](https://mods.factorio.com/mod/Rocket-Silo-Construction) | MIT | snouz, MFerrari (MFerrari is ok with me sharing my work for his mod)
 
 - [SE Space Trains](https://mods.factorio.com/mod/se-space-trains) [nerfkidjcb's fork](https://mods.factorio.com/mod/electric-trains) | MIT | FragJacker, snouz
 
@@ -131,12 +134,6 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 - [Lexs Aircraft](https://mods.factorio.com/mod/lex-aircraft) | MIT | lexsus
 
 - [Gun Equipment](https://mods.factorio.com/mod/GunEquipment) | MIT | snouz
-
-- [Rocket-Silo Construction](https://mods.factorio.com/mod/Rocket-Silo-Construction) | MIT | snouz, MFerrari (MFerrari is ok with me sharing my work for his mod)
-
-- [Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | notnotmelon
-
-- [Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | notnotmelon
 
 - [Cheese's Concentrated Solar](https://mods.factorio.com/mod/ch-concentrated-solar) | GNU GPLv3 | StolenCheese, snouz
 
@@ -151,6 +148,8 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 - [Large Storage Tank](https://mods.factorio.com/mod/large-storage-tank) | MIT | Valerian
 
 - [Maraxsis](https://mods.factorio.com/mod/maraxsis) | MIT | notnotmelon, ZivixLLC, keptin, KaueNP, Krastor, Galdoc, snouz
+- [Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | notnotmelon
+- [Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | notnotmelon
 
 - [Nanobots](https://mods.factorio.com/mod/Nanobots2) | MIT | Nexela, snouz
 
@@ -168,37 +167,29 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 
 - [Tenebris](https://mods.factorio.com/mod/tenebris) | MIT | Big_J
 
-- [Light Cycle](https://mods.factorio.com/mod/Lightcycle) | MIT | Sacredanarchy
-
-- [Fortress Ruins](https://mods.factorio.com/mod/FortressRuins) | MIT | Sacredanarchy
-
-- [Tesla Tank](https://mods.factorio.com/mod/TeslaTank) | MIT | Sacredanarchy
-
-- [Personal Light Operations Patrol Craft (PLOPC)](https://mods.factorio.com/mod/Plopc) | MIT | Sacredanarchy
-
 - [Moshine](https://mods.factorio.com/mod/Moshine?from=downloaded) | MIT / GNU LGPLv3 / CC BY | snouz, Krastor, Hurricane046
 
 - [Battery Powered](https://mods.factorio.com/mod/battery-powered) | CC BY-SA 4.0 | harag
 
 - [Reactors](https://mods.factorio.com/mods/GotLag/Reactors) | MIT | Gotlag
 
+- [Light Cycle](https://mods.factorio.com/mod/Lightcycle) | MIT | Sacredanarchy
+- [Fortress Ruins](https://mods.factorio.com/mod/FortressRuins) | MIT | Sacredanarchy
+- [Tesla Tank](https://mods.factorio.com/mod/TeslaTank) | MIT | Sacredanarchy
+- [Personal Light Operations Patrol Craft (PLOPC)](https://mods.factorio.com/mod/Plopc) | MIT | Sacredanarchy
 - [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) | MIT | Sacredanarchy, Klonan
 
 - [Assault Spidertron](https://mods.factorio.com/mod/assault_spidertron_V2) | MIT | Dave-1993_, snouz
-
 - [Ballistic Missile](https://mods.factorio.com/mod/ballistic_missile) | GNU GPLv3 | Dave-1993_
 
 - TheKingJo's mods | CC BY-NC-SA 4.0 | [Baneblade Tank](https://mods.factorio.com/mod/kj_40kbaneblade) (model by Matthew Retopologised) [Iron Fist Dreadnought](https://mods.factorio.com/mod/kj_40kdreadnought) (model by Loumiere) [Predator Tank](https://mods.factorio.com/mod/kj_40kpredator) (model by Rinzler) [Leman Russ Tank](https://mods.factorio.com/mod/kj_40klemanruss) (model by Rinzler) [Northrop B-2 Spirit](https://mods.factorio.com/mod/kj_b2) (model by overlordchaos) [B-17](https://mods.factorio.com/mod/kj_b17) (model by manilov.ap and helijah) [Panzer IV](https://mods.factorio.com/mod/kj_panzer4) (model by Greg McKechnie) [Ju-87](https://mods.factorio.com/mod/kj_ju87) (model by dannysgallegos) [Bf-109](https://mods.factorio.com/mod/kj_bf109) (model by Simple Aviation & Boating) [Panzer VIII 'Maus'](https://mods.factorio.com/mod/kj_maustank) (model by BK_114) [Ho-229](https://mods.factorio.com/mod/kj_ho229) (model by Tesler) [Ju-52](https://mods.factorio.com/mod/kj_ju52) (model by Matias G.) [Northrop XB-35](https://mods.factorio.com/mod/kj_xb35) (model by Corvette724) [Vierling Flak](https://mods.factorio.com/mod/kj_vierling) (model by DFS studio) [Landkreuzer P.1000 Ratte](https://mods.factorio.com/mod/kj_rattetank) (model by Herdyn) [Leopard 2A6](https://mods.factorio.com/mod/kj_2a6) (model by buh) [Ju G38](https://mods.factorio.com/mod/kj_jug38) (model by helijah) [Warhammer 40K Bunker](https://mods.factorio.com/mod/kj_40kbunker) (model by uragan27) [88mm Pak 43](https://mods.factorio.com/mod/kj_pak) (model by AMAC35) [Servo-Skull](https://mods.factorio.com/mod/kj_servoskull) (model by Erasmus) [Metal Gear Solid Rex](https://mods.factorio.com/mod/kj_rex) (model by Zdarova) [Ford Mustang](https://mods.factorio.com/mod/kj_fordmustang) (model by BaldGuyMartin) [Flakpanzer IV 'Wirbelwind'](https://mods.factorio.com/mod/kj_wirbelwind) (model by Prak) [Lamborghini Aventador](https://mods.factorio.com/mod/kj_aventador) (model by kondokeibu) [General Purpose Truck](https://mods.factorio.com/mod/kj_utilitarian) (model by Lee Alex Johansson) [Watchtower](https://mods.factorio.com/mod/kj_tower) (model by \_SeF\_) [War Rig Truck](https://mods.factorio.com/mod/kj_warrig) (model by Gandarf) [Cybertruck](https://mods.factorio.com/mod/kj_cybertruck) (model by PolyDucky) [Phalanx CIWS](https://mods.factorio.com/mod/kj_phalanx) (model by JordyVanMelkebeke) [Gigahorse](https://mods.factorio.com/mod/kj_gigahorse) (model by lowriderfreak and Frank I.) [Boeing 747](https://mods.factorio.com/mod/kj_747) (model by PartialHedgehog) [Item Bunker](https://mods.factorio.com/mod/kj_itembunker) (model by Medv3D) [Fancy Lamp](https://mods.factorio.com/mod/kj_lightmachine) (model by 19vitali99) [Nuclear Mine](https://mods.factorio.com/mod/kj_nuclearmine) (model by FWTeastwood) [Bulldozer](https://mods.factorio.com/mod/kj_bulldozer) (model by xoliul) [B-29](https://mods.factorio.com/mod/kj_b29) (model by Escou) [Star Wars Speeder Bike](https://mods.factorio.com/mod/kj_swspeeder) (model by Idmental) [Metal Gear Solid Ray](https://mods.factorio.com/mod/kj_ray) (model by Peardian) [Fire Truck](https://mods.factorio.com/mod/kj_firetruck) (model by Rescue3D Assets) [Flag](https://mods.factorio.com/mod/kj_flag) (model by TheKingJo) [Lasercannon](https://mods.factorio.com/mod/kj_laser) (model by TheKingJo) [Helios One Concentrated Solar](https://mods.factorio.com/mod/kj_heliosOne) (model from Fallout: New Vegas) [Pre-Industrial Warfare](https://mods.factorio.com/mod/kj_medieval_warfare) ([original mod](https://mods.factorio.com/mod/siege-ballista) by PastTheFuture)
 
-- [Intermodal Containers](https://mods.factorio.com/mod/IntermodalContainers) | GNU GPLv3 | Deadlock989, shanemadden
-
 - [Space battles](https://mods.factorio.com/mod/space-battles) [(graphics)](https://mods.factorio.com/mod/space-battles-graphics) | MIT | estgamer, models by FilipZelinka, Kerem Kavalci, futaba@blender, Wholock, Vaportrash
-
 - [Transport rings](https://mods.factorio.com/mod/transport-ring-teleporter) | MIT | estgamer
-
 - [Elron](https://mods.factorio.com/mod/elron) | MIT | estgamer
 
 - [MOAR Modules](https://mods.factorio.com/mod/moar-modules) | CC BY-NC-SA 4.0 | Mr.SmoothieHuman
+- [Punch(card) In The Face](https://mods.factorio.com/mod/punchcard-in-the-face) | GNU LGPLv3 | Mr.SmoothieHuman
 
 - [Interplanetary Logistics]()https://mods.factorio.com/mod/InterplanetaryLogistics | GNU GPLv3 | Ellis.xl
 
@@ -214,22 +205,12 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 
 - [Old Style Concrete Textures](https://mods.factorio.com/mod/OldStyle) | Public Domain | Quadrox, DellAquila
 
-- [Deadlock's Compact Loaders](https://mods.factorio.com/mod/DeadlockLoaders) | GNU GPLv3 | Deadlock989, shanemadden
-
-- [Deadlock's Stacking Beltboxes & Compact Loaders](https://mods.factorio.com/mod/deadlock-beltboxes-loaders) | GNU GPLv3 | Deadlock989, shanemadden
-
-- [Deadlock's Stacking Beltboxes](https://mods.factorio.com/mod/DeadlockStacking) | GNU GPLv3 | Deadlock989, shanemadden
-
 - [Compact circuits](https://mods.factorio.com/mod/compaktcircuit) | Telkine2018 | compaktcircuit
 
 - [Dredgeworks](https://mods.factorio.com/mod/dredgeworks) [Graphics](https://mods.factorio.com/mod/dredgeworks-graphics) | MIT | Kubius
 
-- [Equipment+: Portable Engine](https://mods.factorio.com/mod/EquipmentPlusPortableEngine) | MIT | daydev
-
 - [Iridescent Industry](https://mods.factorio.com/mod/IridescentIndustry) | GNU GPLv3 | S6X, Hurricane046
-
 - [Voidcraft](https://mods.factorio.com/mod/Voidcraft) | GNU GPLv3 | S6X
-
 - [Telogistics](https://mods.factorio.com/mod/Telogistics) | MIT | S6X
 
 - [Legendary Space Age](https://mods.factorio.com/mod/LegendarySpaceAge) | GNU GPLv3 | StephenB
@@ -238,11 +219,12 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 
 - [Magic Lamp](https://mods.factorio.com/mod/magic-lamp) | MIT | justarandomgeek
 
-- [Metal and Stars](https://mods.factorio.com/mod/metal-and-stars) [graphics1](https://mods.factorio.com/mod/metal-and-stars-graphics) [graphics2](https://mods.factorio.com/mod/metal-and-stars-graphics-2) | MIT | 5forsilver, Hurricane046
+- [Metal and Stars](https://mods.factorio.com/mod/metal-and-stars) [graphics1](https://mods.factorio.com/mod/metal-and-stars-graphics) [graphics2](https://mods.factorio.com/mod/metal-and-stars-graphics-2) | MIT | 5forsilver
 
 - [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
 
-- [Power+: Power Meter](https://mods.factorio.com/mod/PowerPlusPowerMeter) | MIT | daydev 
+- [Equipment+: Portable Engine](https://mods.factorio.com/mod/EquipmentPlusPortableEngine) | MIT | daydev
+- [Power+: Power Meter](https://mods.factorio.com/mod/PowerPlusPowerMeter) | MIT | daydev
 
 - [Robot Charging Station 1x1](https://mods.factorio.com/mod/Robo-Charge-1x1) | MIT | Peppe
 
@@ -254,8 +236,54 @@ Example of a good credit line: The entity (entity name) contain parts of buildin
 
 - [Alatar's Rocketry](https://mods.factorio.com/mod/alatar-rocketry) | MIT | alataristarion
 
+- [Amator Phasma's Resource Pack](https://mods.factorio.com/mod/apm_resource_pack) | GNU GPLv3 | AmatorPhasma
 
-- []() |  | 
+- [Armor Pockets](https://mods.factorio.com/mod/armor-pockets) | MIT | psioniq
+
+- [Brutus V12](https://mods.factorio.com/mod/brutus) | MIT | SirFloIII
+
+- [Canal Excavator](https://mods.factorio.com/mod/canal-excavator-graphics) | MIT | jurgy
+
+- [Cannon Alpha](https://mods.factorio.com/mod/CannonAlpha) | MIT | darkfrei
+
+- [Cursed Upgradable Buildings](https://mods.factorio.com/mod/Cursed-Exp) | GNU GPLv3 | Ravran
+
+- [Custom Power Armor](https://mods.factorio.com/mod/custom_power_armor) | CC BY-NC-SA | MrSilver2510
+- [Nohomoto industries SMSN](https://mods.factorio.com/mod/Nohomoto_industries) | CC BY-NC-SA | MrSilver2510
+
+- [Heracles flying carrier](https://mods.factorio.com/mod/CW-heracles-carrier) | MIT | CyberWizard2261
+
+- [Intermodal Containers](https://mods.factorio.com/mod/IntermodalContainers) | GNU GPLv3 | Deadlock989, shanemadden
+- [Deadlock's Compact Loaders](https://mods.factorio.com/mod/DeadlockLoaders) | GNU GPLv3 | Deadlock989, shanemadden
+- [Deadlock's Stacking Beltboxes & Compact Loaders](https://mods.factorio.com/mod/deadlock-beltboxes-loaders) | GNU GPLv3 | Deadlock989, shanemadden
+- [Deadlock's Stacking Beltboxes](https://mods.factorio.com/mod/DeadlockStacking) | GNU GPLv3 | Deadlock989, shanemadden
+- [Deadlock's Astonishingly Basic Oil Refinery (Special 1760 Edition)](https://mods.factorio.com/mod/DeadlockBasicOil1760) | Public Domain | Deadlock989
+- [Larger Lamps](https://mods.factorio.com/mod/DeadlockLargerLamp) | GNU GPLv3 | Deadlock989
+- [More Text Plates](https://mods.factorio.com/mod/DeadlockMoreTextPlates) | GNU GPLv3 | Deadlock989
+
+- [doeWorks Rocket Artillery](https://mods.factorio.com/mod/doeworks-deer) | GNU GPLv3 | Snowdoe
+
+- BiusArt mods [Ammo Loader+](https://mods.factorio.com/mod/chest) [Lab](https://mods.factorio.com/mod/laborat) [Combinator](https://mods.factorio.com/mod/comb) [Christmas tree](https://mods.factorio.com/mod/elka) | GNU (L)GPLv3 | BiusArt
+- [Artifact](https://mods.factorio.com/mod/artefact) | Public Domain | badway, BiusArt
+- [Advanced assembly machines](https://mods.factorio.com/mod/assembling-machine-up) | Public Domain | badway
+- [Leviathan](https://mods.factorio.com/mod/DrCar) | Public Domain | badway
+- [Advanced Furnaces](https://mods.factorio.com/mod/Load-Furn) | Public Domain | badway
+
+- [Research Control Tower](https://mods.factorio.com/mod/research-control-tower) | MIT | Velaanix
+
+- [Planet Rubia](https://mods.factorio.com/mod/rubia-assets) | GNU GPLv3 | LoupAndSnoop
+
+- [Stirling Generator](https://mods.factorio.com/mod/stirling-generator) | Public Domain | Kubius
+
+- [Storage Tank Mk2](https://mods.factorio.com/mod/StorageTank2) | MIT | Optera
+
+- [Thermal Solar Power](https://mods.factorio.com/mod/thermal-solar-power-lite) | MIT | CyberWizard2261, MarximusMaximus, ZarSasha
+
+- [Underground Power Lines](https://mods.factorio.com/mod/underground-power-lines) | MIT | Giovy2001
+
+- [Vehicle Wagon](https://mods.factorio.com/mod/vehicle-wagon-graphics) | MIT | YuokiTani, Supercheese, Artanis_Mattias, robot256
+
+- [Zithorian's Extra Storage Tanks](https://mods.factorio.com/mod/zithorian-extra-storage-tanks-port) | MIT | Zithorian, ZarSasha
 
 - []() |  | 
 

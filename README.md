@@ -39,7 +39,7 @@ TBD
 
 - CC = Creative Commons | BY = you need to credit the author | NC = Non-Commercial, you can't make money off it | SA = Share Alike, you can't distribute it and pretend it has another license | ND = No Derivative, you can't remix in any way
 
-- GNU GPLv3/LGPLv3 = You can use it, modify it, but what you use has to keep the same license (add a notice to the mod page), the copyright notice, a link to the source, and make the changes clear.
+- GNU GPLv3/LGPLv3/Apache v2 = You can use it, modify it, but what you use has to keep the same license (add a notice to the mod page), the copyright notice, a link to the source, and make the changes clear.
 
 Example of a good credit line (it's polite to do that even when the license doesn't force it): The entity (entity name) contain parts of buildings from (link to mod) from author (name) and is under license (license name)
 
@@ -260,6 +260,7 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Deadlock's Astonishingly Basic Oil Refinery (Special 1760 Edition)](https://mods.factorio.com/mod/DeadlockBasicOil1760) | Public Domain | Deadlock989
 - [Larger Lamps](https://mods.factorio.com/mod/DeadlockLargerLamp) | GNU GPLv3 | Deadlock989
 - [More Text Plates](https://mods.factorio.com/mod/DeadlockMoreTextPlates) | GNU GPLv3 | Deadlock989
+- [Industrial Display Plates](https://mods.factorio.com/mod/IndustrialDisplays) | GNU GPLv3 | Deadlock989
 
 - [doeWorks Rocket Artillery](https://mods.factorio.com/mod/doeworks-deer) | GNU GPLv3 | Snowdoe
 
@@ -268,6 +269,7 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Advanced assembly machines](https://mods.factorio.com/mod/assembling-machine-up) | Public Domain | badway
 - [Leviathan](https://mods.factorio.com/mod/DrCar) | Public Domain | badway
 - [Advanced Furnaces](https://mods.factorio.com/mod/Load-Furn) | Public Domain | badway
+- [Geothermal generator](https://mods.factorio.com/mod/geothermalgen) | Public Domain | badway
 
 - [Research Control Tower](https://mods.factorio.com/mod/research-control-tower) | MIT | Velaanix
 
@@ -285,6 +287,30 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Zithorian's Extra Storage Tanks](https://mods.factorio.com/mod/zithorian-extra-storage-tanks-port) | MIT | Zithorian, ZarSasha
 
+- [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) | MIT | Redotix99, Quezler
+
+- [Extra Storage Tank: Minibuffer](https://mods.factorio.com/mod/extra-storage-tank-minibuffer) | MIT | Anicha
+
+- [Extra Storage Tank](https://mods.factorio.com/mod/extra-storage-tank) | MIT | Anicha
+
+- [Firework Rockets](https://mods.factorio.com/mod/firework_rockets_assets) | GNU LGPLv3 | heyqule, neogeo37
+
+- [Foodtorio](https://mods.factorio.com/mod/foodtorio) | MIT | MrEktidd
+
+- [Gleba Lab](https://mods.factorio.com/mod/gleba-lab) | MIT | LordMiguel
+
+- [Heat Processing](https://mods.factorio.com/mod/heat-processing) | Public Domain | kaueNP, ElAdamo
+
+- [Bery0za's Pure It](Bery0za's Pure It) | Apache License 2.0 | Bery0za
+
+- [C-5 Galaxy Cargo Plane](https://mods.factorio.com/mod/c5-galaxy) | MIT | Marvinth01
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
 - []() |  | 
 
 - []() |  | 
@@ -294,3 +320,45 @@ Example of a good credit line (it's polite to do that even when the license does
 - []() |  | 
 
 - []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- [Lunar Landings](https://mods.factorio.com/mod/LunarLandings) | GNU GPLv3 | Xorimuth

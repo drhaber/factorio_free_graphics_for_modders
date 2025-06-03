@@ -60,9 +60,12 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Artisanal Reskins: Bob's mods](https://mods.factorio.com/mod/reskins-bobs) | MIT | Kirazy, snouz, Vigil, YuokiTani
 
-- YuokiTani's mods: [Industries](https://mods.factorio.com/mod/Yuoki) [Engines](https://mods.factorio.com/mod/yi_engines) [Railway](https://mods.factorio.com/mod/yi_railway) [YIR-UPR](https://mods.factorio.com/mod/z_yira_UP) [Railroads](https://mods.factorio.com/mod/z_yira_yuokirails) [YIR-Americans](https://mods.factorio.com/mod/z_yira_american) [ProfitFromWar](https://mods.factorio.com/mod/yi_pfw) [Helloween](https://mods.factorio.com/mod/YIHW) | CC BY-NC-SA 4.0 / MIT | YuokiTani
+- YuokiTani's mods: [Industries](https://mods.factorio.com/mod/Yuoki) [Engines](https://mods.factorio.com/mod/yi_engines) [Railway](https://mods.factorio.com/mod/yi_railway) [YIR-UPR](https://mods.factorio.com/mod/z_yira_UP) [Railroads](https://mods.factorio.com/mod/z_yira_yuokirails) [YIR-Americans](https://mods.factorio.com/mod/z_yira_american) [ProfitFromWar](https://mods.factorio.com/mod/yi_pfw) [Helloween](https://mods.factorio.com/mod/YIHW) [Additional turrets](https://mods.factorio.com/mod/Additional-Turret) (with sore68) [Supreme Warfare](https://forums.factorio.com/viewtopic.php?f=14&t=12447) (with SpeedyBrain, abandoned, never published on the portal) | CC BY-NC-SA 4.0 / MIT | YuokiTani
+- [Vehicle Radar](https://mods.factorio.com/mod/Vehicle_Radar) | MIT | YuokiTani
 
 - [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
+
+- [Realistic Fusion Power](https://mods.factorio.com/mod/RealisticFusionPower), [Abandoned v2.0](https://github.com/romner-set/realistic-fusion-dev) | Do What the Fuck You Want to Public License | Romner_set, YuokiTani, PreLeyZero
 
 - [Periodic Madness (TEST)](https://mods.factorio.com/mod/periodic-madness-test) | MIT | Mr.SmoothieHuman
 
@@ -127,7 +130,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [SE Space Trains](https://mods.factorio.com/mod/se-space-trains) [nerfkidjcb's fork](https://mods.factorio.com/mod/electric-trains) | MIT | FragJacker, snouz
 
-- [Omega Drill](https://mods.factorio.com/mod/OmegaDrill) | MIT | toddnollan
+- [Omega Drill](https://mods.factorio.com/mod/OmegaDrill) (v2 & v3) | MIT | toddnollan
 
 - [Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
 
@@ -178,6 +181,10 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Tesla Tank](https://mods.factorio.com/mod/TeslaTank) | MIT | Sacredanarchy
 - [Personal Light Operations Patrol Craft (PLOPC)](https://mods.factorio.com/mod/Plopc) | MIT | Sacredanarchy
 - [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) | MIT | Sacredanarchy, Klonan
+- [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
+- [Laser Fence](https://mods.factorio.com/mod/laserfence) | Apache License 2.0 | SacredAnarchy, randomflyingtaco
+- [Long range delivery drones](https://mods.factorio.com/mod/Long_Range_Delivery_Drones) | GNU LGPLv3  | Sacredanarchy, Klonan
+- [Pushbutton](https://mods.factorio.com/mod/pushbutton) | MIT | Sacredanarchy, justarandomgeek
 
 - [Assault Spidertron](https://mods.factorio.com/mod/assault_spidertron_V2) | MIT | Dave-1993_, snouz
 - [Ballistic Missile](https://mods.factorio.com/mod/ballistic_missile) | GNU GPLv3 | Dave-1993_
@@ -220,8 +227,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Magic Lamp](https://mods.factorio.com/mod/magic-lamp) | MIT | justarandomgeek
 
 - [Metal and Stars](https://mods.factorio.com/mod/metal-and-stars) [graphics1](https://mods.factorio.com/mod/metal-and-stars-graphics) [graphics2](https://mods.factorio.com/mod/metal-and-stars-graphics-2) | MIT | 5forsilver
-
-- [Old car](https://mods.factorio.com/mod/Old-car) | MIT | Sacredanarchy, SpeckledFleebeedoo
 
 - [Equipment+: Portable Engine](https://mods.factorio.com/mod/EquipmentPlusPortableEngine) | MIT | daydev
 - [Power+: Power Meter](https://mods.factorio.com/mod/PowerPlusPowerMeter) | MIT | daydev
@@ -301,11 +306,55 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Heat Processing](https://mods.factorio.com/mod/heat-processing) | Public Domain | kaueNP, ElAdamo
 
-- [Bery0za's Pure It](Bery0za's Pure It) | Apache License 2.0 | Bery0za
+- [Bery0za's Pure It](https://mods.factorio.com/mod/bery0zas-pure-it) | Apache License 2.0 | Bery0za
 
 - [C-5 Galaxy Cargo Plane](https://mods.factorio.com/mod/c5-galaxy) | MIT | Marvinth01
 
-- []() |  | 
+- [Asphalt Roads](https://mods.factorio.com/mod/AsphaltPaving) | Mozilla Public License 2.0 | Zetty
+
+- [Belt Sorter](https://mods.factorio.com/mod/beltSorter) | GNU GPLv3 | judos, Cordina, snouz
+
+- [Better Energy Production](https://mods.factorio.com/mod/Better-Energy-production) | MIT | emirate.
+
+- [Brass Tacks](https://mods.factorio.com/mod/BrassTacks) | MIT | planetfall, Galdoc
+
+- [Circuit Processing](https://mods.factorio.com/mod/CircuitProcessing) | MIT | Trainwreck
+
+- [Factorio and Conquer Tiberian Dawn](https://mods.factorio.com/mod/Factorio-Tiberium) | MIT | Zillo7, SAH4001, Oktabyte, JamesFire, randomflyingtaco, GrayAx
+
+- [Gear Girl Character](https://mods.factorio.com/mod/GirlCharacter) | CC BY-NC-SA 4.0 | SleepyEngi, designed by Hideboar
+
+- [Loader Redux](https://mods.factorio.com/mod/LoaderRedux) | MIT | Arch666Angel, Kirazy
+- [Bulk Rail Loader](https://mods.factorio.com/mod/railloader) | GNU LGPLv3 | Arch666Angel
+
+- [ModMash/ModMash Splinter](https://mods.factorio.com/user/btarrant) | GNU GPLv3 | btarrant
+
+- [Omni mods](https://mods.factorio.com/user/OmnissiahZelos) | GNU LGPLv3 | Nexela, OmnissiahZelos
+
+- [Rampant Arsenal](https://mods.factorio.com/mod/RampantArsenal) | GNU GPLv3 | YuokiTani, Veden
+
+- [Raven](https://mods.factorio.com/mod/Raven) | MIT | maroder
+
+- [Artisanal Reskins Library](https://mods.factorio.com/mod/reskins-library) | MIT | Kirazy
+
+- [Searchlight](https://mods.factorio.com/mod/Searchlight) | MIT | DukeDublin
+
+- [SearchlightAssault](https://mods.factorio.com/mod/SearchlightAssault) | MIT | bolderbrush10
+
+- [SigmaOne's Mods: Military](https://mods.factorio.com/mod/SigmaOne_Military) | GNU LGPLv3 | Sigma1
+- [SigmaOne's Mods: Nuclear](https://mods.factorio.com/mod/SigmaOne_Nuclear) | MIT | Sigma1
+
+- [Solar Lamp](https://mods.factorio.com/mod/Solar-Lamp) | MIT | Endus322
+
+- [Stone Water Well](https://mods.factorio.com/mod/StoneWaterWell) | CC BY | bSun0000
+
+- [Train tunnels](https://mods.factorio.com/mod/traintunnels) | MIT | Godmave
+
+- [Transport Drones](https://mods.factorio.com/mod/Transport_Drones) | GNU LGPLv3 | bubbles, klonan
+
+- [Void Chest +](https://mods.factorio.com/mod/VoidChestPlus) | MIT | snouz
+
+- [Petraspace](https://github.com/gamma-delta/petraspace) | MIT | Petrak@
 
 - []() |  | 
 
@@ -361,4 +410,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - []() |  | 
 
-- [Lunar Landings](https://mods.factorio.com/mod/LunarLandings) | GNU GPLv3 | Xorimuth
+- []() |  | 
+
+- []() |  | 

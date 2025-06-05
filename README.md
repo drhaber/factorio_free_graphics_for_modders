@@ -31,7 +31,9 @@ Or if those mods includes graphics packages (e.g. Space Exploration, Angel's...)
 
 # Tutorials
 
-TBD
+- [Yuoki Tani's Cinema4D tutorial (2015-2019)](https://www.youtube.com/watch?v=B9FyupUbtFg&list=PLHGhn5uwXKpTZtPelCjXgZ5UxxQyityGd)
+
+https://forums.factorio.com/viewtopic.php?p=31217
 
 # Licenses obligations summary
 

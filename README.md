@@ -31,9 +31,11 @@ Or if those mods includes graphics packages (e.g. Space Exploration, Angel's...)
 
 # Tutorials
 
+- [FactorioModScripts + modding resources by StephenBarnes (2025)](https://github.com/StephenBarnes/FactorioModScripts)
+
 - [Yuoki Tani's Cinema4D tutorial (2015-2019)](https://www.youtube.com/watch?v=B9FyupUbtFg&list=PLHGhn5uwXKpTZtPelCjXgZ5UxxQyityGd)
 
-https://forums.factorio.com/viewtopic.php?p=31217
+- [Yuoki Tani forum tutorial for visuals](https://forums.factorio.com/viewtopic.php?p=31217)
 
 # Licenses obligations summary
 
@@ -41,7 +43,7 @@ https://forums.factorio.com/viewtopic.php?p=31217
 
 - CC = Creative Commons | BY = you need to credit the author | NC = Non-Commercial, you can't make money off it | SA = Share Alike, you can't distribute it and pretend it has another license | ND = No Derivative, you can't remix in any way
 
-- GNU GPLv3/LGPLv3/Apache v2 = You can use it, modify it, but what you use has to keep the same license (add a notice to the mod page), the copyright notice, a link to the source, and make the changes clear.
+- GNU GPLv3/LGPLv3/Apache/Mozilla v2 = You can use it, modify it, but what you use has to keep the same license (add a notice to the mod page), the copyright notice, a link to the source, and make the changes clear.
 
 Example of a good credit line (it's polite to do that even when the license doesn't force it): The entity (entity name) contain parts of buildings from (link to mod) from author (name) and is under license (license name)
 
@@ -415,3 +417,9 @@ Example of a good credit line (it's polite to do that even when the license does
 - []() |  | 
 
 - []() |  | 
+
+
+# Personal tips
+
+- Hurricane046, MalcolmRiley, Krastorio 2, Artisanal reskins... have all been used in many many mods already.
+- I suggest checking other assets out: some of my favorites are Sosciencity, exotic industries, Realistic fusion reactors, Pure It, Amator Phasma, Periodic Madness...

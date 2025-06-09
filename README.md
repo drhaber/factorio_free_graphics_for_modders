@@ -379,13 +379,13 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Concrete Lamppost](https://mods.factorio.com/mod/Concrete_Lamppost) | GNU GPLv3 | Klonan
 
-- []() |  | 
+- [Concretexture](https://mods.factorio.com/mod/Concretexture) | MIT | GotLag, Kamsta99
 
-- []() |  | 
+- [Crusader Character Skin](https://mods.factorio.com/mod/CrusaderSkin) | MIT | Helicopter_Ambulance, model by Bleed
 
-- []() |  | 
+- [Darkstar Utilities](https://mods.factorio.com/mod/Darkstar_utilities) | MIT | Nekomancer, Azakir
 
-- []() |  | 
+- [FTL Ships](https://mods.factorio.com/mod/FTL-Ships) | MIT | Pankeko, models by SilentStorm064
 
 - []() |  | 
 

@@ -68,7 +68,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - YuokiTani's mods: [Industries](https://mods.factorio.com/mod/Yuoki) [Engines](https://mods.factorio.com/mod/yi_engines) [Railway](https://mods.factorio.com/mod/yi_railway) [YIR-UPR](https://mods.factorio.com/mod/z_yira_UP) [Railroads](https://mods.factorio.com/mod/z_yira_yuokirails) [YIR-Americans](https://mods.factorio.com/mod/z_yira_american) [ProfitFromWar](https://mods.factorio.com/mod/yi_pfw) [Helloween](https://mods.factorio.com/mod/YIHW) [Additional turrets](https://mods.factorio.com/mod/Additional-Turret) (with sore68) [Supreme Warfare](https://forums.factorio.com/viewtopic.php?f=14&t=12447) (with SpeedyBrain, abandoned, never published on the portal) | CC BY-NC-SA 4.0 / MIT | YuokiTani
 - [Vehicle Radar](https://mods.factorio.com/mod/Vehicle_Radar) | MIT | YuokiTani
-
+- [General Improvements](https://forums.factorio.com/viewtopic.php?t=21252) | GNU GPLv3 | YuokiTani, jouki
 - [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
 
 - [Realistic Fusion Power](https://mods.factorio.com/mod/RealisticFusionPower), [Abandoned v2.0](https://github.com/romner-set/realistic-fusion-dev) | Do What the Fuck You Want to Public License | Romner_set, YuokiTani, PreLeyZero
@@ -388,6 +388,52 @@ Example of a good credit line (it's polite to do that even when the license does
 - [FTL Ships](https://mods.factorio.com/mod/FTL-Ships) | MIT | Pankeko, models by SilentStorm064
 
 - [Dodge Challenger](https://mods.factorio.com/mod/DodgeChallenger_by_Pankeko) | MIT | Pankeko
+
+- [Early Construction Bots](https://mods.factorio.com/mod/early-construction-bots) | MIT | AUTOMATIC, model by YuryTheCreator
+
+- [easy wind turbine](https://mods.factorio.com/mod/easy-wind-turbine) | GNU GPLv3 | unfunf22
+
+- [Large Electric Pole](https://mods.factorio.com/mod/LargeElectricPole) | MIT | dereksgc
+
+- [Fusion Thruster](https://mods.factorio.com/mod/fusion-thruster) | MIT | snouz
+
+- [Cannon turret](https://mods.factorio.com/mod/hl-Cannon-turret) | MIT | hlittlezero
+
+- [Rocket turret](https://mods.factorio.com/mod/hl-Rocket-turret) | MIT | hlittlezero
+
+- [Igrys](https://mods.factorio.com/mod/Igrys) | MIT | Kaue NP, egorexW (ruin model by BytesCrafter)
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
 
 - []() |  | 
 

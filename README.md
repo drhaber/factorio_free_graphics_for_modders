@@ -33,6 +33,8 @@ Or if those mods includes graphics packages (e.g. Space Exploration, Angel's...)
 
 - [FactorioModScripts + modding resources by StephenBarnes (2025)](https://github.com/StephenBarnes/FactorioModScripts)
 
+- [TheKingJo tutorial (2025)](https://www.youtube.com/watch?v=qJ5LFbQwfkE) + blender template for rotated objects in description
+
 - [Yuoki Tani's Cinema4D tutorial (2015-2019)](https://www.youtube.com/watch?v=B9FyupUbtFg&list=PLHGhn5uwXKpTZtPelCjXgZ5UxxQyityGd)
 
 - [Yuoki Tani forum tutorial for visuals](https://forums.factorio.com/viewtopic.php?p=31217)
@@ -104,8 +106,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Nullius](https://mods.factorio.com/mod/nullius) | MIT | anachrony
 
 - [KS Power](https://mods.factorio.com/mod/KS_Power) | GNU GPLv3 | Klonan, snouz
-
-- [Repair Turret](https://mods.factorio.com/mod/Repair_Turret) | GNU LGPLv3 | Klonan, SacredAnarchy
 
 - [Armoured Biters](https://mods.factorio.com/mod/ArmouredBiters) | CC BY-NC | CybranM
 
@@ -189,6 +189,7 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Laser Fence](https://mods.factorio.com/mod/laserfence) | Apache License 2.0 | SacredAnarchy, randomflyingtaco
 - [Long range delivery drones](https://mods.factorio.com/mod/Long_Range_Delivery_Drones) | GNU LGPLv3  | Sacredanarchy, Klonan
 - [Pushbutton](https://mods.factorio.com/mod/pushbutton) | MIT | Sacredanarchy, justarandomgeek
+- [Repair Turret](https://mods.factorio.com/mod/Repair_Turret) | GNU LGPLv3 | Klonan, SacredAnarchy
 
 - [Assault Spidertron](https://mods.factorio.com/mod/assault_spidertron_V2) | MIT | Dave-1993_, snouz
 - [Ballistic Missile](https://mods.factorio.com/mod/ballistic_missile) | GNU GPLv3 | Dave-1993_
@@ -360,19 +361,17 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Petraspace](https://github.com/gamma-delta/petraspace) | MIT | Petrak@
 
-- []() |  | 
+- [Among Us Character](https://mods.factorio.com/mod/AmongUsCharacter) | MIT | darkfrei, model by ThatAverageJoe
 
-- []() |  | 
+- [Arachnids](https://mods.factorio.com/mod/Arachnids) | MIT | Aotenshin, Sobigdrasil
 
-- []() |  | 
+- [Baketorio](https://mods.factorio.com/mod/baketorio) | MIT | Butteredcoffe
 
-- []() |  | 
+- [Raccoon Biters](https://mods.factorio.com/mod/beaver) | GNU GPLv3 | plexpt
 
-- []() |  | 
+- [Better Ecology](https://mods.factorio.com/mod/better-ecology) | MIT | Byzzee
 
-- []() |  | 
-
-- []() |  | 
+- [Bumble Bots](https://mods.factorio.com/mod/bumble-bots) | CC BY-NC-SA 4.0 | Maxreader
 
 - []() |  | 
 

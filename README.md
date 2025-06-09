@@ -387,7 +387,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [FTL Ships](https://mods.factorio.com/mod/FTL-Ships) | MIT | Pankeko, models by SilentStorm064
 
-- []() |  | 
+- [Dodge Challenger](https://mods.factorio.com/mod/DodgeChallenger_by_Pankeko) | MIT | Pankeko
 
 - []() |  | 
 

@@ -281,7 +281,7 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Advanced Furnaces](https://mods.factorio.com/mod/Load-Furn) | Public Domain | badway
 - [Geothermal generator](https://mods.factorio.com/mod/geothermalgen) | Public Domain | badway
 
-- [Research Control Tower](https://mods.factorio.com/mod/research-control-tower) | MIT | Velaanix
+- [FFF339BeaconGraphics](https://mods.factorio.com/mod/FFF339BeaconGraphics) | Public Domain | Tedium_0xFF, Wube (FFF-339)
 
 - [Planet Rubia](https://mods.factorio.com/mod/rubia-assets) | GNU GPLv3 | LoupAndSnoop
 
@@ -403,11 +403,11 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Igrys](https://mods.factorio.com/mod/Igrys) | MIT | Kaue NP, egorexW (ruin model by BytesCrafter)
 
-- []() |  | 
+- [Atomic Robots](https://mods.factorio.com/mod/AtomicBots) | MIT | Arch666Angel
 
-- []() |  | 
+- [Bulk Teleporters](https://mods.factorio.com/mod/bulkteleport | MIT | dorfl
 
-- []() |  | 
+- [Crawler](https://mods.factorio.com/mod/Crawler) | MIT | darkfrei
 
 - []() |  | 
 

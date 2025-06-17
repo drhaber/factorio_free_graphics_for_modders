@@ -409,9 +409,9 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Crawler](https://mods.factorio.com/mod/Crawler) | MIT | darkfrei
 
-- []() |  | 
+- [Demolisher Agriculture](https://mods.factorio.com/mod/demolisher-agriculture) | MIT | LordMiguel
 
-- []() |  | 
+- [Electric Heating Tower](https://mods.factorio.com/mod/ElectricHeatingTower) | MIT | Z4NON
 
 - []() |  | 
 

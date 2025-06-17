@@ -70,6 +70,7 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Vehicle Radar](https://mods.factorio.com/mod/Vehicle_Radar) | MIT | YuokiTani
 - [General Improvements](https://forums.factorio.com/viewtopic.php?t=21252) | GNU GPLv3 | YuokiTani, jouki
 - [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
+- [LJD Vehicles](https://mods.factorio.com/mod/LJD_Vehicles_A16) | MIT | YuokiTani
 
 - [Realistic Fusion Power](https://mods.factorio.com/mod/RealisticFusionPower), [Abandoned v2.0](https://github.com/romner-set/realistic-fusion-dev) | Do What the Fuck You Want to Public License | Romner_set, YuokiTani, PreLeyZero
 
@@ -135,8 +136,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [SE Space Trains](https://mods.factorio.com/mod/se-space-trains) [nerfkidjcb's fork](https://mods.factorio.com/mod/electric-trains) | MIT | FragJacker, snouz
 
 - [Omega Drill](https://mods.factorio.com/mod/OmegaDrill) (v2 & v3) | MIT | toddnollan
-
-- [Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
 
 - [Lexs Aircraft](https://mods.factorio.com/mod/lex-aircraft) | MIT | lexsus
 
@@ -415,17 +414,16 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Factorio Plus Plus](https://mods.factorio.com/mod/fpp) | MIT | Kintharo
 
-- []() |  | 
+- [Heated Fabrication](https://mods.factorio.com/mod/HeatedFabrication) | MIT | MrLumme
 
-- []() |  | 
+- [ThunderStorm Lightning energy](https://mods.factorio.com/mod/Lightning) | GNU GPLv3  | AivanF
 
-- []() |  | 
 
-- []() |  | 
+- [Modular IFV](https://mods.factorio.com/mod/modular-ifv) | MIT | pandamiami80s
+- [Turret library](https://mods.factorio.com/mod/turret-library) | MIT | pandamiami80s
+- [Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
 
-- []() |  | 
-
-- []() |  | 
+- [Train construction site](https://mods.factorio.com/mod/trainConstructionSite) | GNU GPLv3 | YuokiTani, lovely_santa
 
 - []() |  | 
 

@@ -413,7 +413,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Electric Heating Tower](https://mods.factorio.com/mod/ElectricHeatingTower) | MIT | Z4NON
 
-- []() |  | 
+- [Factorio Plus Plus](https://mods.factorio.com/mod/fpp) | MIT | Kintharo
 
 - []() |  | 
 

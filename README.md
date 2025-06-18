@@ -173,7 +173,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Tenebris](https://mods.factorio.com/mod/tenebris) | MIT | Big_J
 
-- [Moshine](https://mods.factorio.com/mod/Moshine?from=downloaded) | MIT / GNU LGPLv3 / CC BY | snouz, Krastor, Hurricane046
+- [Moshine](https://mods.factorio.com/mod/Moshine) ([planet](https://mods.factorio.com/mod/Moshine-assets) ) | MIT / GNU LGPLv3 / CC BY | snouz, Krastor, Hurricane046
 
 - [Battery Powered](https://mods.factorio.com/mod/battery-powered) | CC BY-SA 4.0 | harag
 
@@ -418,16 +418,16 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ThunderStorm Lightning energy](https://mods.factorio.com/mod/Lightning) | GNU GPLv3  | AivanF
 
-
 - [Modular IFV](https://mods.factorio.com/mod/modular-ifv) | MIT | pandamiami80s
 - [Turret library](https://mods.factorio.com/mod/turret-library) | MIT | pandamiami80s
 - [Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
 
 - [Train construction site](https://mods.factorio.com/mod/trainConstructionSite) | GNU GPLv3 | YuokiTani, lovely_santa
+- [More Science](https://mods.factorio.com/mod/MoreScience) | GNU GPLv3 |  Arch666angel, lovely_santa, Daemoria
 
-- []() |  | 
+- [ScienceCostTweakerM](https://mods.factorio.com/mod/ScienceCostTweakerM) | GNU GPLv3 | mexmer
 
-- []() |  | 
+- [NPBees](https://mods.factorio.com/mod/NPBees) | MIT | kaueNP
 
 - []() |  | 
 

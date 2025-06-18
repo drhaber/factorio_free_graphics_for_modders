@@ -154,8 +154,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Large Storage Tank](https://mods.factorio.com/mod/large-storage-tank) | MIT | Valerian
 
 - [Maraxsis](https://mods.factorio.com/mod/maraxsis) | MIT | notnotmelon, ZivixLLC, keptin, KaueNP, Krastor, Galdoc, snouz
-- [Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | notnotmelon
-- [Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | notnotmelon
 
 - [Nanobots](https://mods.factorio.com/mod/Nanobots2) | MIT | Nexela, snouz
 
@@ -427,13 +425,10 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ScienceCostTweakerM](https://mods.factorio.com/mod/ScienceCostTweakerM) | GNU GPLv3 | mexmer
 
-- [NPBees](https://mods.factorio.com/mod/NPBees) | MIT | kaueNP
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
+- [NPBees](https://mods.factorio.com/mod/NPBees) [NPBees2](https://mods.factorio.com/mod/NPBees2) | MIT | kaueNP
+- [Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | kaueNP
+- [Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | kaueNP
+- [NPUtils](https://mods.factorio.com/mod/NPUtils) / [NPUtilsX](https://mods.factorio.com/mod/NPUtilsX) | MIT | kaueNP
 
 - []() |  | 
 
@@ -465,4 +460,4 @@ Example of a good credit line (it's polite to do that even when the license does
 # Personal tips
 
 - Hurricane046, MalcolmRiley, Krastorio 2, Artisanal reskins... have all been used in many many mods already.
-- I suggest checking other assets out: some of my favorites are Sosciencity, exotic industries, Realistic fusion reactors, Pure It, Amator Phasma, Periodic Madness, Igrys, Yuoki Industries, ...
+- I suggest checking other assets out: some of my favorites are Sosciencity, exotic industries, Realistic fusion reactors, NPUtils, Pure It, Amator Phasma, Periodic Madness, Igrys, Yuoki Industries, ...

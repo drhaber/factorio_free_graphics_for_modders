@@ -71,6 +71,15 @@ Example of a good credit line (it's polite to do that even when the license does
 - [General Improvements](https://forums.factorio.com/viewtopic.php?t=21252) | GNU GPLv3 | YuokiTani, jouki
 - [Aircraft](https://mods.factorio.com/mod/Aircraft-space-age) | MIT | YuokiTani, snouz
 - [LJD Vehicles](https://mods.factorio.com/mod/LJD_Vehicles_A16) | MIT | YuokiTani
+- [Train construction site](https://mods.factorio.com/mod/trainConstructionSite) | GNU GPLv3 | YuokiTani, lovely_santa
+- [Rampant Arsenal](https://mods.factorio.com/mod/RampantArsenal) | GNU GPLv3 | YuokiTani, Veden
+- [Cannon Turret](httpsmods.factorio.commodvtk-cannon-turret) | MIT | YuokiTani, snouz
+- [Vehicle Wagon](https://mods.factorio.com/mod/vehicle-wagon-graphics) | MIT | YuokiTani, Supercheese, Artanis_Mattias, robot256
+
+- [NPUtils](https://mods.factorio.com/mod/NPUtils) / [NPUtilsX](https://mods.factorio.com/mod/NPUtilsX) / [NPUtils Tech](https://mods.factorio.com/mod/NPUtilsTech) | MIT | kaueNP
+- [NPBees](https://mods.factorio.com/mod/NPBees) [NPBees2](https://mods.factorio.com/mod/NPBees2) | MIT | kaueNP
+- [Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | kaueNP
+- [Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | kaueNP
 
 - [Realistic Fusion Power](https://mods.factorio.com/mod/RealisticFusionPower), [Abandoned v2.0](https://github.com/romner-set/realistic-fusion-dev) | Do What the Fuck You Want to Public License | Romner_set, YuokiTani, PreLeyZero
 
@@ -149,7 +158,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - Burner lab | MIT | snouz
 
-- [Cannon Turret](httpsmods.factorio.commodvtk-cannon-turret) | MIT | YuokiTani, snouz
 
 - [Large Storage Tank](https://mods.factorio.com/mod/large-storage-tank) | MIT | Valerian
 
@@ -192,6 +200,11 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Ballistic Missile](https://mods.factorio.com/mod/ballistic_missile) | GNU GPLv3 | Dave-1993_
 
 - TheKingJo's mods | CC BY-NC-SA 4.0 | [Baneblade Tank](https://mods.factorio.com/mod/kj_40kbaneblade) (model by Matthew Retopologised) [Iron Fist Dreadnought](https://mods.factorio.com/mod/kj_40kdreadnought) (model by Loumiere) [Predator Tank](https://mods.factorio.com/mod/kj_40kpredator) (model by Rinzler) [Leman Russ Tank](https://mods.factorio.com/mod/kj_40klemanruss) (model by Rinzler) [Northrop B-2 Spirit](https://mods.factorio.com/mod/kj_b2) (model by overlordchaos) [B-17](https://mods.factorio.com/mod/kj_b17) (model by manilov.ap and helijah) [Panzer IV](https://mods.factorio.com/mod/kj_panzer4) (model by Greg McKechnie) [Ju-87](https://mods.factorio.com/mod/kj_ju87) (model by dannysgallegos) [Bf-109](https://mods.factorio.com/mod/kj_bf109) (model by Simple Aviation & Boating) [Panzer VIII 'Maus'](https://mods.factorio.com/mod/kj_maustank) (model by BK_114) [Ho-229](https://mods.factorio.com/mod/kj_ho229) (model by Tesler) [Ju-52](https://mods.factorio.com/mod/kj_ju52) (model by Matias G.) [Northrop XB-35](https://mods.factorio.com/mod/kj_xb35) (model by Corvette724) [Vierling Flak](https://mods.factorio.com/mod/kj_vierling) (model by DFS studio) [Landkreuzer P.1000 Ratte](https://mods.factorio.com/mod/kj_rattetank) (model by Herdyn) [Leopard 2A6](https://mods.factorio.com/mod/kj_2a6) (model by buh) [Ju G38](https://mods.factorio.com/mod/kj_jug38) (model by helijah) [Warhammer 40K Bunker](https://mods.factorio.com/mod/kj_40kbunker) (model by uragan27) [88mm Pak 43](https://mods.factorio.com/mod/kj_pak) (model by AMAC35) [Servo-Skull](https://mods.factorio.com/mod/kj_servoskull) (model by Erasmus) [Metal Gear Solid Rex](https://mods.factorio.com/mod/kj_rex) (model by Zdarova) [Ford Mustang](https://mods.factorio.com/mod/kj_fordmustang) (model by BaldGuyMartin) [Flakpanzer IV 'Wirbelwind'](https://mods.factorio.com/mod/kj_wirbelwind) (model by Prak) [Lamborghini Aventador](https://mods.factorio.com/mod/kj_aventador) (model by kondokeibu) [General Purpose Truck](https://mods.factorio.com/mod/kj_utilitarian) (model by Lee Alex Johansson) [Watchtower](https://mods.factorio.com/mod/kj_tower) (model by \_SeF\_) [War Rig Truck](https://mods.factorio.com/mod/kj_warrig) (model by Gandarf) [Cybertruck](https://mods.factorio.com/mod/kj_cybertruck) (model by PolyDucky) [Phalanx CIWS](https://mods.factorio.com/mod/kj_phalanx) (model by JordyVanMelkebeke) [Gigahorse](https://mods.factorio.com/mod/kj_gigahorse) (model by lowriderfreak and Frank I.) [Boeing 747](https://mods.factorio.com/mod/kj_747) (model by PartialHedgehog) [Item Bunker](https://mods.factorio.com/mod/kj_itembunker) (model by Medv3D) [Fancy Lamp](https://mods.factorio.com/mod/kj_lightmachine) (model by 19vitali99) [Nuclear Mine](https://mods.factorio.com/mod/kj_nuclearmine) (model by FWTeastwood) [Bulldozer](https://mods.factorio.com/mod/kj_bulldozer) (model by xoliul) [B-29](https://mods.factorio.com/mod/kj_b29) (model by Escou) [Star Wars Speeder Bike](https://mods.factorio.com/mod/kj_swspeeder) (model by Idmental) [Metal Gear Solid Ray](https://mods.factorio.com/mod/kj_ray) (model by Peardian) [Fire Truck](https://mods.factorio.com/mod/kj_firetruck) (model by Rescue3D Assets) [Flag](https://mods.factorio.com/mod/kj_flag) (model by TheKingJo) [Lasercannon](https://mods.factorio.com/mod/kj_laser) (model by TheKingJo) [Helios One Concentrated Solar](https://mods.factorio.com/mod/kj_heliosOne) (model from Fallout: New Vegas) [Pre-Industrial Warfare](https://mods.factorio.com/mod/kj_medieval_warfare) ([original mod](https://mods.factorio.com/mod/siege-ballista) by PastTheFuture)
+
+- [Modular IFV](https://mods.factorio.com/mod/modular-ifv) | MIT | pandamiami80s
+- [Turret library](https://mods.factorio.com/mod/turret-library) | MIT | pandamiami80s
+- [Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
+
 
 - [Space battles](https://mods.factorio.com/mod/space-battles) [(graphics)](https://mods.factorio.com/mod/space-battles-graphics) | MIT | estgamer, models by FilipZelinka, Kerem Kavalci, futaba@blender, Wholock, Vaportrash
 - [Transport rings](https://mods.factorio.com/mod/transport-ring-teleporter) | MIT | estgamer
@@ -290,7 +303,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Underground Power Lines](https://mods.factorio.com/mod/underground-power-lines) | MIT | Giovy2001
 
-- [Vehicle Wagon](https://mods.factorio.com/mod/vehicle-wagon-graphics) | MIT | YuokiTani, Supercheese, Artanis_Mattias, robot256
 
 - [Zithorian's Extra Storage Tanks](https://mods.factorio.com/mod/zithorian-extra-storage-tanks-port) | MIT | Zithorian, ZarSasha
 
@@ -305,8 +317,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Foodtorio](https://mods.factorio.com/mod/foodtorio) | MIT | MrEktidd
 
 - [Gleba Lab](https://mods.factorio.com/mod/gleba-lab) | MIT | LordMiguel
-
-- [Heat Processing](https://mods.factorio.com/mod/heat-processing) | Public Domain | kaueNP, ElAdamo
 
 - [Bery0za's Pure It](https://mods.factorio.com/mod/bery0zas-pure-it) | Apache License 2.0 | Bery0za
 
@@ -327,13 +337,11 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Gear Girl Character](https://mods.factorio.com/mod/GirlCharacter) | CC BY-NC-SA 4.0 | SleepyEngi, designed by Hideboar
 
 - [Loader Redux](https://mods.factorio.com/mod/LoaderRedux) | MIT | Arch666Angel, Kirazy
-- [Bulk Rail Loader](https://mods.factorio.com/mod/railloader) | GNU LGPLv3 | Arch666Angel
+- [Arch666angel shared on Forum (MIT)](https://forums.factorio.com/viewtopic.php?f=15&t=40923) | "Free to use" | Arch666Angel
 
 - [ModMash/ModMash Splinter](https://mods.factorio.com/user/btarrant) | GNU GPLv3 | btarrant
 
 - [Omni mods](https://mods.factorio.com/user/OmnissiahZelos) | GNU LGPLv3 | Nexela, OmnissiahZelos
-
-- [Rampant Arsenal](https://mods.factorio.com/mod/RampantArsenal) | GNU GPLv3 | YuokiTani, Veden
 
 - [Raven](https://mods.factorio.com/mod/Raven) | MIT | maroder
 
@@ -416,25 +424,15 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ThunderStorm Lightning energy](https://mods.factorio.com/mod/Lightning) | GNU GPLv3  | AivanF
 
-- [Modular IFV](https://mods.factorio.com/mod/modular-ifv) | MIT | pandamiami80s
-- [Turret library](https://mods.factorio.com/mod/turret-library) | MIT | pandamiami80s
-- [Armored Trains](https://mods.factorio.com/mod/Armored-train) | MIT | pandamiami80s
-
-- [Train construction site](https://mods.factorio.com/mod/trainConstructionSite) | GNU GPLv3 | YuokiTani, lovely_santa
 - [More Science](https://mods.factorio.com/mod/MoreScience) | GNU GPLv3 |  Arch666angel, lovely_santa, Daemoria
 
 - [ScienceCostTweakerM](https://mods.factorio.com/mod/ScienceCostTweakerM) | GNU GPLv3 | mexmer
 
-- [NPBees](https://mods.factorio.com/mod/NPBees) [NPBees2](https://mods.factorio.com/mod/NPBees2) | MIT | kaueNP
-- [Memory Storage](https://mods.factorio.com/mod/deep-storage-unit) | MIT | kaueNP
-- [Fluid Memory Storage](https://mods.factorio.com/mod/fluid-memory-storage) | MIT | kaueNP
-- [NPUtils](https://mods.factorio.com/mod/NPUtils) / [NPUtilsX](https://mods.factorio.com/mod/NPUtilsX) | MIT | kaueNP
+- [kolt16 graphics](https://forums.factorio.com/viewtopic.php?t=1968) | MIT | kolt16
 
-- []() |  | 
+- [Darkfrei forum posts](https://forums.factorio.com/search.php?author_id=4551&sr=posts) | Public Domain | Darkfrei
 
-- []() |  | 
-
-- []() |  | 
+- [Volcanio](https://forums.factorio.com/viewtopic.php?p=302104&hilit=volcanio#p302104) | CC BY | NoQ
 
 - []() |  | 
 

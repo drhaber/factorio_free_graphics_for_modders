@@ -60,11 +60,15 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Factorio's older versions download page (from 0.6.4)](https://factorio.com/download/archive) | Wube's EULA | Wube
 
+- Stuff upscaled by snouz (techs, entities, icons...) | original license + add "reworked by snouz"
+
 - [Hurricane046's buildings](https://shorturl.at/AFcDm) | CC BY | Hurricane046
 
 - [Malcolmriley's Unused Renders](https://github.com/malcolmriley/unused-renders) | CC BY | Malcolm Riley
 
 - [Artisanal Reskins: Bob's mods](https://mods.factorio.com/mod/reskins-bobs) | MIT | Kirazy, snouz, Vigil, YuokiTani
+
+- Burner lab | MIT | snouz
 
 - YuokiTani's mods: [Industries](https://mods.factorio.com/mod/Yuoki) [Engines](https://mods.factorio.com/mod/yi_engines) [Railway](https://mods.factorio.com/mod/yi_railway) [YIR-UPR](https://mods.factorio.com/mod/z_yira_UP) [Railroads](https://mods.factorio.com/mod/z_yira_yuokirails) [YIR-Americans](https://mods.factorio.com/mod/z_yira_american) [ProfitFromWar](https://mods.factorio.com/mod/yi_pfw) [Helloween](https://mods.factorio.com/mod/YIHW) [Additional turrets](https://mods.factorio.com/mod/Additional-Turret) (with sore68) [Supreme Warfare](https://forums.factorio.com/viewtopic.php?f=14&t=12447) (with SpeedyBrain, abandoned, never published on the portal) | CC BY-NC-SA 4.0 / MIT | YuokiTani
 - [Vehicle Radar](https://mods.factorio.com/mod/Vehicle_Radar) | MIT | YuokiTani
@@ -156,7 +160,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Shield Generators](https://mods.factorio.com/mod/shield-generators) | MIT | snouz, Hurricane046, PreLeyZero
 
-- Burner lab | MIT | snouz
 
 
 - [Large Storage Tank](https://mods.factorio.com/mod/large-storage-tank) | MIT | Valerian
@@ -281,8 +284,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Larger Lamps](https://mods.factorio.com/mod/DeadlockLargerLamp) | GNU GPLv3 | Deadlock989
 - [More Text Plates](https://mods.factorio.com/mod/DeadlockMoreTextPlates) | GNU GPLv3 | Deadlock989
 - [Industrial Display Plates](https://mods.factorio.com/mod/IndustrialDisplays) | GNU GPLv3 | Deadlock989
-
-- [doeWorks Rocket Artillery](https://mods.factorio.com/mod/doeworks-deer) | GNU GPLv3 | Snowdoe
 
 - BiusArt mods [Ammo Loader+](https://mods.factorio.com/mod/chest) [Lab](https://mods.factorio.com/mod/laborat) [Combinator](https://mods.factorio.com/mod/comb) [Christmas tree](https://mods.factorio.com/mod/elka) | GNU (L)GPLv3 | BiusArt
 - [Artifact](https://mods.factorio.com/mod/artefact) | Public Domain | badway, BiusArt

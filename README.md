@@ -435,7 +435,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Volcanio](https://forums.factorio.com/viewtopic.php?p=302104&hilit=volcanio#p302104) | CC BY | NoQ
 
-- []() |  | 
+- [ADKrig's entities (shared on forum)](https://forums.factorio.com/search.php?author_id=8106&sr=posts) | CC BY | ADKrig (reworked by snouz)
 
 - []() |  | 
 

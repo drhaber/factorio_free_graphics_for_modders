@@ -437,8 +437,68 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ADKrig's entities (shared on forum)](https://forums.factorio.com/search.php?author_id=8106&sr=posts) | CC BY | ADKrig (reworked by snouz)
 
+- [Concentrated Solar Power](https://mods.factorio.com/mod/concentrated-solar-power) | MIT | NindyBun
+
+- [ControlTech](https://mods.factorio.com/mod/ControlTech) | MIT | iMicky
+
+- [engineer tf2](https://mods.factorio.com/mod/engineer-tf2) | GNU LGPLv3 | dank_hank
+
+- [Food Industry](https://mods.factorio.com/mod/FoodIndustry) | MIT | Villfuk02, darkfrei, Oceanel, jonkeda
+
+- [Gearery](https://mods.factorio.com/mod/Gearery) | GNU GPLv3 | S6X
+
+- [KM A-10 ThunderBolt](https://mods.factorio.com/mod/km_a10) | MIT | myawesomebike, model by manilov.ap (CCBY)
+
+- [Kontraptions](https://mods.factorio.com/mod/Kontraptions) | MIT | Klonan
+
+- [Laser Lines](https://mods.factorio.com/mod/laserlines) | MIT | dorfl
+
+- [Logistic Carts](https://mods.factorio.com/mod/logicarts) | MIT | Arch666Angel, dorfl
+
+- [Longhaul Trains](https://mods.factorio.com/mod/longhaul_trains) | MIT | aron85_, model by Jesper Landin
+
+- [Military 5](https://mods.factorio.com/mod/Military-5) | MIT | Kalyff
+
+- [Obelisks-of-light](https://mods.factorio.com/mod/Obelisks-of-light) | MIT | Gouitsu
+
+- [Oil hauler](https://mods.factorio.com/mod/oil-hauler) | CC BY-NC 4.0 | Sladki
+
+- [Panzerkampfwagen VI Tiger Ausführung H](https://mods.factorio.com/mod/Panzerkampfwagen-VI-Tiger-Ausfuhrung-H) | MIT | Mearsu
+
+- [Plasma Duct](https://mods.factorio.com/mod/plasma-duct) | MIT | Mad3ngineer
+
+- [Railguns](https://mods.factorio.com/mod/Railguns) | MIT | Laxai
+
 - []() |  | 
 
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
+
+- []() |  | 
 - []() |  | 
 
 - []() |  | 

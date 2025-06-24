@@ -469,7 +469,11 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Railguns](https://mods.factorio.com/mod/Railguns) | MIT | Laxai
 
-- []() |  | 
+- [Rail Tanker Alternative Texture ](https://mods.factorio.com/mod/RailTankerAltTexture) | Public Domain | R3CONN3R
+
+- [Workbench - Crafting made easier](https://mods.factorio.com/mod/Workbench) | Public Domain | akipfer
+
+- [Unique Module Shapes](https://mods.factorio.com/mod/vovo-shaped-modules) | MIT | Vovosunt
 
 - []() |  | 
 
@@ -484,7 +488,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - []() |  | 
 
 - []() |  | 
-- []() |  | 
 
 - []() |  | 
 
@@ -498,7 +501,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - []() |  | 
 
-- []() |  | 
 - []() |  | 
 
 - []() |  | 
